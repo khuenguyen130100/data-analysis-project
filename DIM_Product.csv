@@ -1,607 +1,607 @@
-ProductKey	Product Name	Sub Category	Product Category	Product Color	Product Size	Product Line	Product Model Name	Product Description	Product Status
-1	Adjustable Race	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-2	Bearing Ball	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-3	BB Ball Bearing	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-4	Headset Ball Bearings	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-5	Blade	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-6	LL Crankarm	NULL	NULL	Black	NULL	NULL	NULL	NULL	Current
-7	ML Crankarm	NULL	NULL	Black	NULL	NULL	NULL	NULL	Current
-8	HL Crankarm	NULL	NULL	Black	NULL	NULL	NULL	NULL	Current
-9	Chainring Bolts	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-10	Chainring Nut	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-11	Chainring	NULL	NULL	Black	NULL	NULL	NULL	NULL	Current
-12	Crown Race	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-13	Chain Stays	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-14	Decal 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-15	Decal 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-16	Down Tube	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-17	Mountain End Caps	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-18	Road End Caps	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-19	Touring End Caps	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-20	Fork End	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-21	Freewheel	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-22	Flat Washer 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-23	Flat Washer 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-24	Flat Washer 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-25	Flat Washer 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-26	Flat Washer 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-27	Flat Washer 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-28	Flat Washer 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-29	Flat Washer 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-30	Flat Washer 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-31	Fork Crown	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-32	Front Derailleur Cage	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-33	Front Derailleur Linkage	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-34	Guide Pulley	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-35	LL Grip Tape	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-36	ML Grip Tape	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-37	HL Grip Tape	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-38	Thin-Jam Hex Nut 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-39	Thin-Jam Hex Nut 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-40	Thin-Jam Hex Nut 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-41	Thin-Jam Hex Nut 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-42	Thin-Jam Hex Nut 15	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-43	Thin-Jam Hex Nut 16	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-44	Thin-Jam Hex Nut 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-45	Thin-Jam Hex Nut 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-46	Thin-Jam Hex Nut 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-47	Thin-Jam Hex Nut 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-48	Thin-Jam Hex Nut 13	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-49	Thin-Jam Hex Nut 14	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-50	Thin-Jam Hex Nut 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-51	Thin-Jam Hex Nut 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-52	Thin-Jam Hex Nut 12	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-53	Thin-Jam Hex Nut 11	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-54	Hex Nut 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-55	Hex Nut 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-56	Hex Nut 16	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-57	Hex Nut 17	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-58	Hex Nut 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-59	Hex Nut 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-60	Hex Nut 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-61	Hex Nut 22	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-62	Hex Nut 23	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-63	Hex Nut 12	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-64	Hex Nut 13	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-65	Hex Nut 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-66	Hex Nut 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-67	Hex Nut 11	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-68	Hex Nut 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-69	Hex Nut 20	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-70	Hex Nut 21	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-71	Hex Nut 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-72	Hex Nut 14	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-73	Hex Nut 15	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-74	Hex Nut 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-75	Hex Nut 18	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-76	Hex Nut 19	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-77	Handlebar Tube	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-78	Head Tube	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-79	LL Hub	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-80	HL Hub	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-81	Keyed Washer	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-82	External Lock Washer 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-83	External Lock Washer 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-84	External Lock Washer 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-85	External Lock Washer 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-86	External Lock Washer 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-87	External Lock Washer 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-88	External Lock Washer 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-89	External Lock Washer 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-90	External Lock Washer 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-91	Internal Lock Washer 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-92	Internal Lock Washer 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-93	Internal Lock Washer 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-94	Internal Lock Washer 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-95	Internal Lock Washer 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-96	Internal Lock Washer 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-97	Internal Lock Washer 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-98	Internal Lock Washer 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-99	Internal Lock Washer 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-100	Internal Lock Washer 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-101	Thin-Jam Lock Nut 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-102	Thin-Jam Lock Nut 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-103	Thin-Jam Lock Nut 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-104	Thin-Jam Lock Nut 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-105	Thin-Jam Lock Nut 15	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-106	Thin-Jam Lock Nut 16	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-107	Thin-Jam Lock Nut 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-108	Thin-Jam Lock Nut 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-109	Thin-Jam Lock Nut 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-110	Thin-Jam Lock Nut 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-111	Thin-Jam Lock Nut 13	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-112	Thin-Jam Lock Nut 14	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-113	Thin-Jam Lock Nut 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-114	Thin-Jam Lock Nut 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-115	Thin-Jam Lock Nut 12	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-116	Thin-Jam Lock Nut 11	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-117	Lock Nut 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-118	Lock Nut 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-119	Lock Nut 16	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-120	Lock Nut 17	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-121	Lock Nut 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-122	Lock Nut 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-123	Lock Nut 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-124	Lock Nut 22	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-125	Lock Nut 23	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-126	Lock Nut 12	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-127	Lock Nut 13	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-128	Lock Nut 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-129	Lock Nut 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-130	Lock Nut 11	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-131	Lock Nut 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-132	Lock Nut 20	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-133	Lock Nut 21	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-134	Lock Nut 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-135	Lock Nut 14	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-136	Lock Nut 15	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-137	Lock Nut 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-138	Lock Nut 19	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-139	Lock Nut 18	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-140	Lock Ring	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-141	Lower Head Race	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-142	Lock Washer 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-143	Lock Washer 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-144	Lock Washer 10	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-145	Lock Washer 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-146	Lock Washer 13	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-147	Lock Washer 8	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-148	Lock Washer 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-149	Lock Washer 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-150	Lock Washer 12	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-151	Lock Washer 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-152	Lock Washer 9	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-153	Lock Washer 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-154	Lock Washer 11	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-155	Metal Angle	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-156	Metal Bar 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-157	Metal Bar 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-158	Metal Plate 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-159	Metal Plate 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-160	Metal Plate 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-161	Metal Sheet 2	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-162	Metal Sheet 3	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-163	Metal Sheet 7	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-164	Metal Sheet 4	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-165	Metal Sheet 5	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-166	Metal Sheet 6	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-167	Metal Sheet 1	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-168	Metal Tread Plate	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-169	LL Nipple	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-170	HL Nipple	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-171	Paint - Black	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-172	Paint - Red	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-173	Paint - Silver	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-174	Paint - Blue	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-175	Paint - Yellow	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-176	Pinch Bolt	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-177	Cup-Shaped Race	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-178	Cone-Shaped Race	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-179	Reflector	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-180	LL Mountain Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-181	ML Mountain Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-182	HL Mountain Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-183	LL Road Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-184	ML Road Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-185	HL Road Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-186	Touring Rim	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-187	LL Mountain Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-188	ML Mountain Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-189	HL Mountain Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-190	LL Road Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-191	ML Road Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-192	HL Road Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-193	LL Touring Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-194	ML Touring Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-195	HL Touring Seat Assembly	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-196	LL Spindle/Axle	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-197	HL Spindle/Axle	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-198	LL Shell	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-199	HL Shell	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-200	Spokes	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-201	Seat Lug	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-202	Stem	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-203	Seat Post	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-204	Steerer	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-205	Seat Stays	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-206	Seat Tube	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-207	Top Tube	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-208	Tension Pulley	NULL	NULL	NA	NULL	NULL	NULL	NULL	Current
-209	Rear Derailleur Cage	NULL	NULL	Silver	NULL	NULL	NULL	NULL	Current
-210	"HL Road Frame - Black, 58"	Road Frames	Components	Black	58	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-211	"HL Road Frame - Red, 58"	Road Frames	Components	Red	58	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-212	"Sport-100 Helmet, Red"	Helmets	Accessories	Red	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-213	"Sport-100 Helmet, Red"	Helmets	Accessories	Red	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-214	"Sport-100 Helmet, Red"	Helmets	Accessories	Red	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Current
-215	"Sport-100 Helmet, Black"	Helmets	Accessories	Black	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-216	"Sport-100 Helmet, Black"	Helmets	Accessories	Black	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-217	"Sport-100 Helmet, Black"	Helmets	Accessories	Black	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Current
-218	"Mountain Bike Socks, M"	Socks	Clothing	White	M	M 	Mountain Bike Socks	Combination of natural and synthetic fibers stays dry and provides just the right cushioning.	Outdate
-219	"Mountain Bike Socks, L"	Socks	Clothing	White	L	M 	Mountain Bike Socks	Combination of natural and synthetic fibers stays dry and provides just the right cushioning.	Outdate
-220	"Sport-100 Helmet, Blue"	Helmets	Accessories	Blue	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-221	"Sport-100 Helmet, Blue"	Helmets	Accessories	Blue	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Outdate
-222	"Sport-100 Helmet, Blue"	Helmets	Accessories	Blue	NULL	S 	Sport-100	"Universal fit, well-vented, lightweight , snap-on visor."	Current
-223	AWC Logo Cap	Caps	Clothing	Multi	NULL	S 	Cycling Cap	Traditional style with a flip-up brim; one-size fits all.	Outdate
-224	AWC Logo Cap	Caps	Clothing	Multi	NULL	S 	Cycling Cap	Traditional style with a flip-up brim; one-size fits all.	Outdate
-225	AWC Logo Cap	Caps	Clothing	Multi	NULL	S 	Cycling Cap	Traditional style with a flip-up brim; one-size fits all.	Current
-226	"Long-Sleeve Logo Jersey, S"	Jerseys	Clothing	Multi	S	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-227	"Long-Sleeve Logo Jersey, S"	Jerseys	Clothing	Multi	S	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-228	"Long-Sleeve Logo Jersey, S"	Jerseys	Clothing	Multi	S	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Current
-229	"Long-Sleeve Logo Jersey, M"	Jerseys	Clothing	Multi	M	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-230	"Long-Sleeve Logo Jersey, M"	Jerseys	Clothing	Multi	M	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-231	"Long-Sleeve Logo Jersey, M"	Jerseys	Clothing	Multi	M	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Current
-232	"Long-Sleeve Logo Jersey, L"	Jerseys	Clothing	Multi	L	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-233	"Long-Sleeve Logo Jersey, L"	Jerseys	Clothing	Multi	L	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-234	"Long-Sleeve Logo Jersey, L"	Jerseys	Clothing	Multi	L	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Current
-235	"Long-Sleeve Logo Jersey, XL"	Jerseys	Clothing	Multi	XL	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-236	"Long-Sleeve Logo Jersey, XL"	Jerseys	Clothing	Multi	XL	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Outdate
-237	"Long-Sleeve Logo Jersey, XL"	Jerseys	Clothing	Multi	XL	S 	Long-Sleeve Logo Jersey	Unisex long-sleeve AWC logo microfiber cycling jersey	Current
-238	"HL Road Frame - Red, 62"	Road Frames	Components	Red	62	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-239	"HL Road Frame - Red, 62"	Road Frames	Components	Red	62	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-240	"HL Road Frame - Red, 62"	Road Frames	Components	Red	62	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-241	"HL Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-242	"HL Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-243	"HL Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-244	"HL Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-245	"HL Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-246	"HL Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-247	"HL Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-248	"HL Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-249	"HL Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-250	"HL Road Frame - Red, 56"	Road Frames	Components	Red	56	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-251	"HL Road Frame - Red, 56"	Road Frames	Components	Red	56	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-252	"HL Road Frame - Red, 56"	Road Frames	Components	Red	56	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-253	"LL Road Frame - Black, 58"	Road Frames	Components	Black	58	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-254	"LL Road Frame - Black, 58"	Road Frames	Components	Black	58	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-255	"LL Road Frame - Black, 58"	Road Frames	Components	Black	58	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-256	"LL Road Frame - Black, 60"	Road Frames	Components	Black	60	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-257	"LL Road Frame - Black, 60"	Road Frames	Components	Black	60	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-258	"LL Road Frame - Black, 60"	Road Frames	Components	Black	60	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-259	"LL Road Frame - Black, 62"	Road Frames	Components	Black	62	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-260	"LL Road Frame - Black, 62"	Road Frames	Components	Black	62	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-261	"LL Road Frame - Black, 62"	Road Frames	Components	Black	62	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-262	"LL Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-263	"LL Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-264	"LL Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-265	"LL Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-266	"LL Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-267	"LL Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-268	"LL Road Frame - Red, 58"	Road Frames	Components	Red	58	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-269	"LL Road Frame - Red, 58"	Road Frames	Components	Red	58	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-270	"LL Road Frame - Red, 60"	Road Frames	Components	Red	60	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-271	"LL Road Frame - Red, 60"	Road Frames	Components	Red	60	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-272	"LL Road Frame - Red, 62"	Road Frames	Components	Red	62	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-273	"LL Road Frame - Red, 62"	Road Frames	Components	Red	62	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-274	"ML Road Frame - Red, 44"	Road Frames	Components	Red	44	R 	ML Road Frame	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."	Outdate
-275	"ML Road Frame - Red, 48"	Road Frames	Components	Red	48	R 	ML Road Frame	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."	Outdate
-276	"ML Road Frame - Red, 52"	Road Frames	Components	Red	52	R 	ML Road Frame	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."	Outdate
-277	"ML Road Frame - Red, 58"	Road Frames	Components	Red	58	R 	ML Road Frame	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."	Outdate
-278	"ML Road Frame - Red, 60"	Road Frames	Components	Red	60	R 	ML Road Frame	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version."	Outdate
-279	"LL Road Frame - Black, 44"	Road Frames	Components	Black	44	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-280	"LL Road Frame - Black, 44"	Road Frames	Components	Black	44	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-281	"LL Road Frame - Black, 44"	Road Frames	Components	Black	44	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-282	"LL Road Frame - Black, 48"	Road Frames	Components	Black	48	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-283	"LL Road Frame - Black, 48"	Road Frames	Components	Black	48	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-284	"LL Road Frame - Black, 48"	Road Frames	Components	Black	48	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-285	"LL Road Frame - Black, 52"	Road Frames	Components	Black	52	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-286	"LL Road Frame - Black, 52"	Road Frames	Components	Black	52	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Outdate
-287	"LL Road Frame - Black, 52"	Road Frames	Components	Black	52	R 	LL Road Frame	"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame."	Current
-288	"HL Mountain Frame - Silver, 42"	Mountain Frames	Components	Silver	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-289	"HL Mountain Frame - Silver, 42"	Mountain Frames	Components	Silver	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-290	"HL Mountain Frame - Silver, 42"	Mountain Frames	Components	Silver	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-291	"HL Mountain Frame - Silver, 44"	Mountain Frames	Components	Silver	44	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-292	"HL Mountain Frame - Silver, 48"	Mountain Frames	Components	Silver	48	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-293	"HL Mountain Frame - Silver, 46"	Mountain Frames	Components	Silver	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-294	"HL Mountain Frame - Silver, 46"	Mountain Frames	Components	Silver	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-295	"HL Mountain Frame - Silver, 46"	Mountain Frames	Components	Silver	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-296	"HL Mountain Frame - Black, 42"	Mountain Frames	Components	Black	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-297	"HL Mountain Frame - Black, 42"	Mountain Frames	Components	Black	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-298	"HL Mountain Frame - Black, 42"	Mountain Frames	Components	Black	42	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-299	"HL Mountain Frame - Black, 44"	Mountain Frames	Components	Black	44	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-300	"HL Mountain Frame - Black, 48"	Mountain Frames	Components	Black	48	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-301	"HL Mountain Frame - Black, 46"	Mountain Frames	Components	Black	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-302	"HL Mountain Frame - Black, 46"	Mountain Frames	Components	Black	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-303	"HL Mountain Frame - Black, 46"	Mountain Frames	Components	Black	46	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-304	"HL Mountain Frame - Black, 38"	Mountain Frames	Components	Black	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-305	"HL Mountain Frame - Black, 38"	Mountain Frames	Components	Black	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-306	"HL Mountain Frame - Black, 38"	Mountain Frames	Components	Black	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-307	"HL Mountain Frame - Silver, 38"	Mountain Frames	Components	Silver	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-308	"HL Mountain Frame - Silver, 38"	Mountain Frames	Components	Silver	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Outdate
-309	"HL Mountain Frame - Silver, 38"	Mountain Frames	Components	Silver	38	M 	HL Mountain Frame	Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.	Current
-310	"Road-150 Red, 62"	Road Bikes	Bikes	Red	62	R 	Road-150	"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."	Outdate
-311	"Road-150 Red, 44"	Road Bikes	Bikes	Red	44	R 	Road-150	"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."	Outdate
-312	"Road-150 Red, 48"	Road Bikes	Bikes	Red	48	R 	Road-150	"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."	Outdate
-313	"Road-150 Red, 52"	Road Bikes	Bikes	Red	52	R 	Road-150	"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."	Outdate
-314	"Road-150 Red, 56"	Road Bikes	Bikes	Red	56	R 	Road-150	"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control."	Outdate
-315	"Road-450 Red, 58"	Road Bikes	Bikes	Red	58	R 	Road-450	"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."	Outdate
-316	"Road-450 Red, 60"	Road Bikes	Bikes	Red	60	R 	Road-450	"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."	Outdate
-317	"Road-450 Red, 44"	Road Bikes	Bikes	Red	44	R 	Road-450	"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."	Outdate
-318	"Road-450 Red, 48"	Road Bikes	Bikes	Red	48	R 	Road-450	"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."	Outdate
-319	"Road-450 Red, 52"	Road Bikes	Bikes	Red	52	R 	Road-450	"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads."	Outdate
-320	"Road-650 Red, 58"	Road Bikes	Bikes	Red	58	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-321	"Road-650 Red, 58"	Road Bikes	Bikes	Red	58	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-322	"Road-650 Red, 60"	Road Bikes	Bikes	Red	60	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-323	"Road-650 Red, 60"	Road Bikes	Bikes	Red	60	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-324	"Road-650 Red, 62"	Road Bikes	Bikes	Red	62	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-325	"Road-650 Red, 62"	Road Bikes	Bikes	Red	62	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-326	"Road-650 Red, 44"	Road Bikes	Bikes	Red	44	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-327	"Road-650 Red, 44"	Road Bikes	Bikes	Red	44	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-328	"Road-650 Red, 48"	Road Bikes	Bikes	Red	48	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-329	"Road-650 Red, 48"	Road Bikes	Bikes	Red	48	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-330	"Road-650 Red, 52"	Road Bikes	Bikes	Red	52	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-331	"Road-650 Red, 52"	Road Bikes	Bikes	Red	52	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-332	"Road-650 Black, 58"	Road Bikes	Bikes	Black	58	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-333	"Road-650 Black, 58"	Road Bikes	Bikes	Black	58	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-334	"Road-650 Black, 60"	Road Bikes	Bikes	Black	60	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-335	"Road-650 Black, 60"	Road Bikes	Bikes	Black	60	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-336	"Road-650 Black, 62"	Road Bikes	Bikes	Black	62	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-337	"Road-650 Black, 62"	Road Bikes	Bikes	Black	62	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-338	"Road-650 Black, 44"	Road Bikes	Bikes	Black	44	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-339	"Road-650 Black, 44"	Road Bikes	Bikes	Black	44	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-340	"Road-650 Black, 48"	Road Bikes	Bikes	Black	48	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-341	"Road-650 Black, 48"	Road Bikes	Bikes	Black	48	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-342	"Road-650 Black, 52"	Road Bikes	Bikes	Black	52	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-343	"Road-650 Black, 52"	Road Bikes	Bikes	Black	52	R 	Road-650	"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for."	Outdate
-344	"Mountain-100 Silver, 38"	Mountain Bikes	Bikes	Silver	38	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-345	"Mountain-100 Silver, 42"	Mountain Bikes	Bikes	Silver	42	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-346	"Mountain-100 Silver, 44"	Mountain Bikes	Bikes	Silver	44	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-347	"Mountain-100 Silver, 48"	Mountain Bikes	Bikes	Silver	48	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-348	"Mountain-100 Black, 38"	Mountain Bikes	Bikes	Black	38	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-349	"Mountain-100 Black, 42"	Mountain Bikes	Bikes	Black	42	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-350	"Mountain-100 Black, 44"	Mountain Bikes	Bikes	Black	44	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-351	"Mountain-100 Black, 48"	Mountain Bikes	Bikes	Black	48	M 	Mountain-100	"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain."	Outdate
-352	"Mountain-200 Silver, 38"	Mountain Bikes	Bikes	Silver	38	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-353	"Mountain-200 Silver, 38"	Mountain Bikes	Bikes	Silver	38	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-354	"Mountain-200 Silver, 42"	Mountain Bikes	Bikes	Silver	42	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-355	"Mountain-200 Silver, 42"	Mountain Bikes	Bikes	Silver	42	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-356	"Mountain-200 Silver, 46"	Mountain Bikes	Bikes	Silver	46	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-357	"Mountain-200 Silver, 46"	Mountain Bikes	Bikes	Silver	46	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-358	"Mountain-200 Black, 38"	Mountain Bikes	Bikes	Black	38	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-359	"Mountain-200 Black, 38"	Mountain Bikes	Bikes	Black	38	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-360	"Mountain-200 Black, 42"	Mountain Bikes	Bikes	Black	42	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-361	"Mountain-200 Black, 42"	Mountain Bikes	Bikes	Black	42	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-362	"Mountain-200 Black, 46"	Mountain Bikes	Bikes	Black	46	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Outdate
-363	"Mountain-200 Black, 46"	Mountain Bikes	Bikes	Black	46	M 	Mountain-200	Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.	Current
-364	"Mountain-300 Black, 38"	Mountain Bikes	Bikes	Black	38	M 	Mountain-300	For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.	Outdate
-365	"Mountain-300 Black, 40"	Mountain Bikes	Bikes	Black	40	M 	Mountain-300	For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.	Outdate
-366	"Mountain-300 Black, 44"	Mountain Bikes	Bikes	Black	44	M 	Mountain-300	For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.	Outdate
-367	"Mountain-300 Black, 48"	Mountain Bikes	Bikes	Black	48	M 	Mountain-300	For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.	Outdate
-368	"Road-250 Red, 44"	Road Bikes	Bikes	Red	44	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-369	"Road-250 Red, 48"	Road Bikes	Bikes	Red	48	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-370	"Road-250 Red, 52"	Road Bikes	Bikes	Red	52	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-371	"Road-250 Red, 58"	Road Bikes	Bikes	Red	58	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-372	"Road-250 Red, 58"	Road Bikes	Bikes	Red	58	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Current
-373	"Road-250 Black, 44"	Road Bikes	Bikes	Black	44	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-374	"Road-250 Black, 44"	Road Bikes	Bikes	Black	44	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Current
-375	"Road-250 Black, 48"	Road Bikes	Bikes	Black	48	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-376	"Road-250 Black, 48"	Road Bikes	Bikes	Black	48	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Current
-377	"Road-250 Black, 52"	Road Bikes	Bikes	Black	52	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-378	"Road-250 Black, 52"	Road Bikes	Bikes	Black	52	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Current
-379	"Road-250 Black, 58"	Road Bikes	Bikes	Black	58	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Outdate
-380	"Road-250 Black, 58"	Road Bikes	Bikes	Black	58	R 	Road-250	"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads."	Current
-381	"Road-550-W Yellow, 38"	Road Bikes	Bikes	Yellow	38	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Outdate
-382	"Road-550-W Yellow, 38"	Road Bikes	Bikes	Yellow	38	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Current
-383	"Road-550-W Yellow, 40"	Road Bikes	Bikes	Yellow	40	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Outdate
-384	"Road-550-W Yellow, 40"	Road Bikes	Bikes	Yellow	40	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Current
-385	"Road-550-W Yellow, 42"	Road Bikes	Bikes	Yellow	42	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Outdate
-386	"Road-550-W Yellow, 42"	Road Bikes	Bikes	Yellow	42	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Current
-387	"Road-550-W Yellow, 44"	Road Bikes	Bikes	Yellow	44	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Outdate
-388	"Road-550-W Yellow, 44"	Road Bikes	Bikes	Yellow	44	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Current
-389	"Road-550-W Yellow, 48"	Road Bikes	Bikes	Yellow	48	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Outdate
-390	"Road-550-W Yellow, 48"	Road Bikes	Bikes	Yellow	48	R 	Road-550-W	"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing."	Current
-391	LL Fork	Forks	Components	NA	NULL	NULL	LL Fork	Stout design absorbs shock and offers more precise steering.	Outdate
-392	ML Fork	Forks	Components	NA	NULL	NULL	ML Fork	Composite road fork with an aluminum steerer tube.	Outdate
-393	HL Fork	Forks	Components	NA	NULL	NULL	HL Fork	High-performance carbon road fork with curved legs.	Outdate
-394	LL Headset	Headsets	Components	NA	NULL	NULL	LL Headset	Threadless headset provides quality at an economical price.	Outdate
-395	ML Headset	Headsets	Components	NA	NULL	NULL	ML Headset	Sealed cartridge keeps dirt out.	Outdate
-396	HL Headset	Headsets	Components	NA	NULL	NULL	HL Headset	"High-quality 1"" threadless headset with a grease port for quick lubrication."	Outdate
-397	LL Mountain Handlebars	Handlebars	Components	NA	NULL	M 	LL Mountain Handlebars	All-purpose bar for on or off-road.	Outdate
-398	LL Mountain Handlebars	Handlebars	Components	NA	NULL	M 	LL Mountain Handlebars	All-purpose bar for on or off-road.	Current
-399	ML Mountain Handlebars	Handlebars	Components	NA	NULL	M 	ML Mountain Handlebars	Tough aluminum alloy bars for downhill.	Outdate
-400	ML Mountain Handlebars	Handlebars	Components	NA	NULL	M 	ML Mountain Handlebars	Tough aluminum alloy bars for downhill.	Current
-401	HL Mountain Handlebars	Handlebars	Components	NA	NULL	M 	HL Mountain Handlebars	Flat bar strong enough for the pro circuit.	Outdate
-402	HL Mountain Handlebars	Handlebars	Components	NA	NULL	M 	HL Mountain Handlebars	Flat bar strong enough for the pro circuit.	Current
-403	LL Road Handlebars	Handlebars	Components	NA	NULL	R 	LL Road Handlebars	Unique shape provides easier reach to the levers.	Outdate
-404	LL Road Handlebars	Handlebars	Components	NA	NULL	R 	LL Road Handlebars	Unique shape provides easier reach to the levers.	Current
-405	ML Road Handlebars	Handlebars	Components	NA	NULL	R 	ML Road Handlebars	Anatomically shaped aluminum tube bar will suit all riders.	Outdate
-406	ML Road Handlebars	Handlebars	Components	NA	NULL	R 	ML Road Handlebars	Anatomically shaped aluminum tube bar will suit all riders.	Current
-407	HL Road Handlebars	Handlebars	Components	NA	NULL	R 	HL Road Handlebars	Designed for racers; high-end anatomically shaped bar from aluminum alloy.	Outdate
-408	HL Road Handlebars	Handlebars	Components	NA	NULL	R 	HL Road Handlebars	Designed for racers; high-end anatomically shaped bar from aluminum alloy.	Current
-409	"ML Mountain Frame - Black, 38"	Mountain Frames	Components	Black	38	M 	ML Mountain Frame-W	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.	Outdate
-410	LL Mountain Front Wheel	Wheels	Components	Black	NULL	M 	LL Mountain Front Wheel	Replacement mountain wheel for entry-level rider.	Outdate
-411	ML Mountain Front Wheel	Wheels	Components	Black	NULL	M 	ML Mountain Front Wheel	Replacement mountain wheel for the casual to serious rider.	Outdate
-412	HL Mountain Front Wheel	Wheels	Components	Black	NULL	M 	HL Mountain Front Wheel	High-performance mountain replacement wheel.	Outdate
-413	LL Road Front Wheel	Wheels	Components	Black	NULL	R 	LL Road Front Wheel	Replacement road front wheel for entry-level cyclist.	Outdate
-414	ML Road Front Wheel	Wheels	Components	Black	NULL	R 	ML Road Front Wheel	Sturdy alloy features a quick-release hub.	Outdate
-415	HL Road Front Wheel	Wheels	Components	Black	NULL	R 	HL Road Front Wheel	Strong wheel with double-walled rim.	Outdate
-416	Touring Front Wheel	Wheels	Components	Black	NULL	T 	Touring Front Wheel	Aerodynamic rims for smooth riding.	Outdate
-417	"ML Road Frame-W - Yellow, 38"	Road Frames	Components	Yellow	38	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Outdate
-418	"ML Road Frame-W - Yellow, 38"	Road Frames	Components	Yellow	38	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Current
-419	LL Mountain Rear Wheel	Wheels	Components	Black	NULL	M 	LL Mountain Rear Wheel	Replacement mountain wheel for entry-level rider.	Outdate
-420	ML Mountain Rear Wheel	Wheels	Components	Black	NULL	M 	ML Mountain Rear Wheel	Replacement mountain wheel for the casual to serious rider.	Outdate
-421	HL Mountain Rear Wheel	Wheels	Components	Black	NULL	M 	HL Mountain Rear Wheel	High-performance mountain replacement wheel.	Outdate
-422	LL Road Rear Wheel	Wheels	Components	Black	NULL	R 	LL Road Rear Wheel	Replacement road rear wheel for entry-level cyclist.	Outdate
-423	ML Road Rear Wheel	Wheels	Components	Black	NULL	R 	ML Road Rear Wheel	Aluminum alloy rim with stainless steel spokes; built for speed.	Outdate
-424	HL Road Rear Wheel	Wheels	Components	Black	NULL	R 	HL Road Rear Wheel	Strong rear wheel with double-walled rim.	Outdate
-425	Touring Rear Wheel	Wheels	Components	Black	NULL	T 	Touring Rear Wheel	Excellent aerodynamic rims guarantee a smooth ride.	Outdate
-426	"ML Mountain Frame - Black, 40"	Mountain Frames	Components	Black	40	M 	ML Mountain Frame	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.	Outdate
-427	"ML Mountain Frame - Black, 44"	Mountain Frames	Components	Black	44	M 	ML Mountain Frame	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.	Outdate
-428	"ML Mountain Frame - Black, 48"	Mountain Frames	Components	Black	48	M 	ML Mountain Frame	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.	Outdate
-429	"ML Road Frame-W - Yellow, 40"	Road Frames	Components	Yellow	40	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Outdate
-430	"ML Road Frame-W - Yellow, 40"	Road Frames	Components	Yellow	40	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Current
-431	"ML Road Frame-W - Yellow, 42"	Road Frames	Components	Yellow	42	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Outdate
-432	"ML Road Frame-W - Yellow, 42"	Road Frames	Components	Yellow	42	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Current
-433	"ML Road Frame-W - Yellow, 44"	Road Frames	Components	Yellow	44	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Outdate
-434	"ML Road Frame-W - Yellow, 44"	Road Frames	Components	Yellow	44	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Current
-435	"ML Road Frame-W - Yellow, 48"	Road Frames	Components	Yellow	48	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Outdate
-436	"ML Road Frame-W - Yellow, 48"	Road Frames	Components	Yellow	48	R 	ML Road Frame-W	"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version."	Current
-437	"HL Road Frame - Black, 62"	Road Frames	Components	Black	62	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-438	"HL Road Frame - Black, 62"	Road Frames	Components	Black	62	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-439	"HL Road Frame - Black, 44"	Road Frames	Components	Black	44	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-440	"HL Road Frame - Black, 44"	Road Frames	Components	Black	44	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-441	"HL Road Frame - Black, 48"	Road Frames	Components	Black	48	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-442	"HL Road Frame - Black, 48"	Road Frames	Components	Black	48	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-443	"HL Road Frame - Black, 52"	Road Frames	Components	Black	52	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Outdate
-444	"HL Road Frame - Black, 52"	Road Frames	Components	Black	52	R 	HL Road Frame	Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.	Current
-445	"Men's Sports Shorts, S"	Shorts	Clothing	Black	S	S 	Men's Sports Shorts	Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.	Outdate
-446	"Touring-Panniers, Large"	Panniers	Accessories	Grey	NULL	T 	Touring-Panniers	"Durable, water-proof nylon construction with easy access. Large enough for weekend trips."	Outdate
-447	Cable Lock	Locks	Accessories	NA	NULL	S 	Cable Lock	"Wraps to fit front and rear tires, carrier and 2 keys included."	Outdate
-448	Minipump	Pumps	Accessories	NA	NULL	S 	Minipump	Designed for convenience. Fits in your pocket. Aluminum barrel. 160psi rated.	Outdate
-449	Mountain Pump	Pumps	Accessories	NA	NULL	M 	Mountain Pump	Simple and light-weight. Emergency patches stored in handle.	Outdate
-450	Taillights - Battery-Powered	Lights	Accessories	NA	NULL	R 	Taillight	Affordable light for safe night riding - uses 3 AAA batteries	Outdate
-451	Headlights - Dual-Beam	Lights	Accessories	NA	NULL	R 	Headlights - Dual-Beam	Rechargeable dual-beam headlight.	Outdate
-452	Headlights - Weatherproof	Lights	Accessories	NA	NULL	R 	Headlights - Weatherproof	Rugged weatherproof headlight.	Outdate
-453	"Men's Sports Shorts, M"	Shorts	Clothing	Black	M	S 	Men's Sports Shorts	Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.	Outdate
-454	"Men's Sports Shorts, L"	Shorts	Clothing	Black	L	S 	Men's Sports Shorts	Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.	Outdate
-455	"Men's Sports Shorts, XL"	Shorts	Clothing	Black	XL	S 	Men's Sports Shorts	Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.	Outdate
-456	"Women's Tights, S"	Tights	Clothing	Black	S	S 	Women's Tights	Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.	Outdate
-457	"Women's Tights, M"	Tights	Clothing	Black	M	S 	Women's Tights	Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.	Outdate
-458	"Women's Tights, L"	Tights	Clothing	Black	L	S 	Women's Tights	Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.	Outdate
-459	"Men's Bib-Shorts, S"	Bib-Shorts	Clothing	Multi	S	S 	Men's Bib-Shorts	"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."	Outdate
-460	"Men's Bib-Shorts, M"	Bib-Shorts	Clothing	Multi	M	S 	Men's Bib-Shorts	"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."	Outdate
-461	"Men's Bib-Shorts, L"	Bib-Shorts	Clothing	Multi	L	S 	Men's Bib-Shorts	"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers."	Outdate
-462	"Half-Finger Gloves, S"	Gloves	Clothing	Black	S	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Outdate
-463	"Half-Finger Gloves, S"	Gloves	Clothing	Black	S	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Current
-464	"Half-Finger Gloves, M"	Gloves	Clothing	Black	M	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Outdate
-465	"Half-Finger Gloves, M"	Gloves	Clothing	Black	M	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Current
-466	"Half-Finger Gloves, L"	Gloves	Clothing	Black	L	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Outdate
-467	"Half-Finger Gloves, L"	Gloves	Clothing	Black	L	S 	Half-Finger Gloves	"Full padding, improved finger flex, durable palm, adjustable closure."	Current
-468	"Full-Finger Gloves, S"	Gloves	Clothing	Black	S	M 	Full-Finger Gloves	"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."	Outdate
-469	"Full-Finger Gloves, M"	Gloves	Clothing	Black	M	M 	Full-Finger Gloves	"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."	Outdate
-470	"Full-Finger Gloves, L"	Gloves	Clothing	Black	L	M 	Full-Finger Gloves	"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders."	Outdate
-471	"Classic Vest, S"	Vests	Clothing	Blue	S	S 	Classic Vest	"Light-weight, wind-resistant, packs to fit into a pocket."	Current
-472	"Classic Vest, M"	Vests	Clothing	Blue	M	S 	Classic Vest	"Light-weight, wind-resistant, packs to fit into a pocket."	Current
-473	"Classic Vest, L"	Vests	Clothing	Blue	L	S 	Classic Vest	"Light-weight, wind-resistant, packs to fit into a pocket."	Current
-474	"Women's Mountain Shorts, S"	Shorts	Clothing	Black	S	M 	Women's Mountain Shorts	"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."	Current
-475	"Women's Mountain Shorts, M"	Shorts	Clothing	Black	M	M 	Women's Mountain Shorts	"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."	Current
-476	"Women's Mountain Shorts, L"	Shorts	Clothing	Black	L	M 	Women's Mountain Shorts	"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort."	Current
-477	Water Bottle - 30 oz.	Bottles and Cages	Accessories	NA	NULL	S 	Water Bottle	AWC logo water bottle - holds 30 oz; leak-proof.	Current
-478	Mountain Bottle Cage	Bottles and Cages	Accessories	NA	NULL	M 	Mountain Bottle Cage	Tough aluminum cage holds bottle securly on tough terrain.	Current
-479	Road Bottle Cage	Bottles and Cages	Accessories	NA	NULL	R 	Road Bottle Cage	Aluminum cage is lighter than our mountain version; perfect for long distance trips.	Current
-480	Patch Kit/8 Patches	Tires and Tubes	Accessories	NA	NULL	S 	Patch kit	"Includes 8 different size patches, glue and sandpaper."	Current
-481	"Racing Socks, M"	Socks	Clothing	White	M	R 	Racing Socks	"Thin, lightweight and durable with cuffs that stay up."	Current
-482	"Racing Socks, L"	Socks	Clothing	White	L	R 	Racing Socks	"Thin, lightweight and durable with cuffs that stay up."	Current
-483	Hitch Rack - 4-Bike	Bike Racks	Accessories	NA	NULL	S 	Hitch Rack - 4-Bike	"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch."	Current
-484	Bike Wash - Dissolver	Cleaners	Accessories	NA	NULL	S 	Bike Wash	"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle."	Current
-485	Fender Set - Mountain	Fenders	Accessories	NA	NULL	M 	Fender Set - Mountain	Clip-on fenders fit most mountain bikes.	Current
-486	All-Purpose Bike Stand	Bike Stands	Accessories	NA	NULL	M 	All-Purpose Bike Stand	Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.	Current
-487	Hydration Pack - 70 oz.	Hydration Packs	Accessories	Silver	70	S 	Hydration Pack	"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt."	Current
-488	"Short-Sleeve Classic Jersey, S"	Jerseys	Clothing	Yellow	S	S 	Short-Sleeve Classic Jersey	"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."	Current
-489	"Short-Sleeve Classic Jersey, M"	Jerseys	Clothing	Yellow	M	S 	Short-Sleeve Classic Jersey	"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."	Current
-490	"Short-Sleeve Classic Jersey, L"	Jerseys	Clothing	Yellow	L	S 	Short-Sleeve Classic Jersey	"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."	Current
-491	"Short-Sleeve Classic Jersey, XL"	Jerseys	Clothing	Yellow	XL	S 	Short-Sleeve Classic Jersey	"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets."	Current
-492	"HL Touring Frame - Yellow, 60"	Touring Frames	Components	Yellow	60	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-493	"LL Touring Frame - Yellow, 62"	Touring Frames	Components	Yellow	62	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-494	"HL Touring Frame - Yellow, 46"	Touring Frames	Components	Yellow	46	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-495	"HL Touring Frame - Yellow, 50"	Touring Frames	Components	Yellow	50	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-496	"HL Touring Frame - Yellow, 54"	Touring Frames	Components	Yellow	54	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-497	"HL Touring Frame - Blue, 46"	Touring Frames	Components	Blue	46	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-498	"HL Touring Frame - Blue, 50"	Touring Frames	Components	Blue	50	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-499	"HL Touring Frame - Blue, 54"	Touring Frames	Components	Blue	54	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-500	"HL Touring Frame - Blue, 60"	Touring Frames	Components	Blue	60	T 	HL Touring Frame	The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.	Current
-501	Rear Derailleur	Derailleurs	Components	Silver	NULL	NULL	Rear Derailleur	Wide-link design.	Current
-502	"LL Touring Frame - Blue, 50"	Touring Frames	Components	Blue	50	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-503	"LL Touring Frame - Blue, 54"	Touring Frames	Components	Blue	54	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-504	"LL Touring Frame - Blue, 58"	Touring Frames	Components	Blue	58	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-505	"LL Touring Frame - Blue, 62"	Touring Frames	Components	Blue	62	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-506	"LL Touring Frame - Yellow, 44"	Touring Frames	Components	Yellow	44	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-507	"LL Touring Frame - Yellow, 50"	Touring Frames	Components	Yellow	50	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-508	"LL Touring Frame - Yellow, 54"	Touring Frames	Components	Yellow	54	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-509	"LL Touring Frame - Yellow, 58"	Touring Frames	Components	Yellow	58	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-510	"LL Touring Frame - Blue, 44"	Touring Frames	Components	Blue	44	T 	LL Touring Frame	Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.	Current
-511	"ML Mountain Frame-W - Silver, 40"	Mountain Frames	Components	Silver	40	M 	ML Mountain Frame-W	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.	Current
-512	"ML Mountain Frame-W - Silver, 42"	Mountain Frames	Components	Silver	42	M 	ML Mountain Frame-W	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.	Current
-513	"ML Mountain Frame-W - Silver, 46"	Mountain Frames	Components	Silver	46	M 	ML Mountain Frame-W	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.	Current
-514	Rear Brakes	Brakes	Components	Silver	NULL	NULL	Rear Brakes	NULL	Current
-515	LL Mountain Seat/Saddle	Saddles	Components	NA	NULL	M 	LL Mountain Seat/Saddle 2	Synthetic leather. Features gel for increased comfort.	Current
-516	ML Mountain Seat/Saddle	Saddles	Components	NA	NULL	M 	ML Mountain Seat/Saddle 2	Designed to absorb shock.	Current
-517	HL Mountain Seat/Saddle	Saddles	Components	NA	NULL	M 	HL Mountain Seat/Saddle 2	Anatomic design for a full-day of riding in comfort. Durable leather.	Current
-518	LL Road Seat/Saddle	Saddles	Components	NA	NULL	R 	LL Road Seat/Saddle 1	Lightweight foam-padded saddle.	Current
-519	ML Road Seat/Saddle	Saddles	Components	NA	NULL	T 	ML Road Seat/Saddle 2	Rubber bumpers absorb bumps.	Current
-520	HL Road Seat/Saddle	Saddles	Components	NA	NULL	R 	HL Road Seat/Saddle 2	Lightweight kevlar racing saddle. Leather.	Current
-521	LL Touring Seat/Saddle	Saddles	Components	NA	NULL	T 	LL Touring Seat/Saddle	"Comfortable, ergonomically shaped gel saddle."	Current
-522	ML Touring Seat/Saddle	Saddles	Components	NA	NULL	T 	ML Touring Seat/Saddle	New design relieves pressure for long rides.	Current
-523	HL Touring Seat/Saddle	Saddles	Components	NA	NULL	T 	HL Touring Seat/Saddle	Cut-out shell for a more comfortable ride.	Current
-524	"LL Mountain Frame - Silver, 42"	Mountain Frames	Components	Silver	42	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-525	"LL Mountain Frame - Silver, 44"	Mountain Frames	Components	Silver	44	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-526	"LL Mountain Frame - Silver, 48"	Mountain Frames	Components	Silver	48	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-527	"LL Mountain Frame - Silver, 52"	Mountain Frames	Components	Silver	52	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-528	Mountain Tire Tube	Tires and Tubes	Accessories	NA	NULL	M 	Mountain Tire Tube	Self-sealing tube.	Current
-529	Road Tire Tube	Tires and Tubes	Accessories	NA	NULL	R 	Road Tire Tube	Conventional all-purpose tube.	Current
-530	Touring Tire Tube	Tires and Tubes	Accessories	NA	NULL	T 	Touring Tire Tube	General purpose tube.	Current
-531	"LL Mountain Frame - Black, 42"	Mountain Frames	Components	Black	42	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-532	"LL Mountain Frame - Black, 44"	Mountain Frames	Components	Black	44	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-533	"LL Mountain Frame - Black, 48"	Mountain Frames	Components	Black	48	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-534	"LL Mountain Frame - Black, 52"	Mountain Frames	Components	Black	52	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-535	LL Mountain Tire	Tires and Tubes	Accessories	NA	NULL	M 	LL Mountain Tire	"Comparible traction, less expensive wire bead casing."	Current
-536	ML Mountain Tire	Tires and Tubes	Accessories	NA	NULL	M 	ML Mountain Tire	"Great traction, high-density rubber."	Current
-537	HL Mountain Tire	Tires and Tubes	Accessories	NA	NULL	M 	HL Mountain Tire	"Incredible traction, lightweight carbon reinforced."	Current
-538	LL Road Tire	Tires and Tubes	Accessories	NA	NULL	R 	LL Road Tire	Same great treads as more expensive tire with a less expensive wire bead casing.	Current
-539	ML Road Tire	Tires and Tubes	Accessories	NA	NULL	R 	ML Road Tire	Higher density rubber.	Current
-540	HL Road Tire	Tires and Tubes	Accessories	NA	NULL	R 	HL Road Tire	Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.	Current
-541	Touring Tire	Tires and Tubes	Accessories	NA	NULL	T 	Touring Tire	High-density rubber.	Current
-542	LL Mountain Pedal	Pedals	Components	Silver/Black	NULL	M 	LL Mountain Pedal	Expanded platform so you can ride in any shoes; great for all-around riding.	Current
-543	ML Mountain Pedal	Pedals	Components	Silver/Black	NULL	M 	ML Mountain Pedal	"Lightweight, durable, clipless pedal with adjustable tension."	Current
-544	HL Mountain Pedal	Pedals	Components	Silver/Black	NULL	M 	HL Mountain Pedal	Stainless steel; designed to shed mud easily.	Current
-545	LL Road Pedal	Pedals	Components	Silver/Black	NULL	R 	LL Road Pedal	Clipless pedals - aluminum.	Current
-546	ML Road Pedal	Pedals	Components	Silver/Black	NULL	R 	ML Road Pedal	Lightweight aluminum alloy construction.	Current
-547	HL Road Pedal	Pedals	Components	Silver/Black	NULL	R 	HL Road Pedal	Top-of-the-line clipless pedals with adjustable tension.	Current
-548	Touring Pedal	Pedals	Components	Silver/Black	NULL	T 	Touring Pedal	A stable pedal for all-day riding.	Current
-549	"ML Mountain Frame-W - Silver, 38"	Mountain Frames	Components	Silver	38	M 	ML Mountain Frame-W	The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.	Current
-550	"LL Mountain Frame - Black, 40"	Mountain Frames	Components	Black	40	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-551	"LL Mountain Frame - Silver, 40"	Mountain Frames	Components	Silver	40	M 	LL Mountain Frame	"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame."	Current
-552	Front Derailleur	Derailleurs	Components	Silver	NULL	NULL	Front Derailleur	Wide-link design.	Current
-553	LL Touring Handlebars	Handlebars	Components	NA	NULL	T 	LL Touring Handlebars	Unique shape reduces fatigue for entry level riders.	Current
-554	HL Touring Handlebars	Handlebars	Components	NA	NULL	T 	HL Touring Handlebars	A light yet stiff aluminum bar for long distance riding.	Current
-555	Front Brakes	Brakes	Components	Silver	NULL	NULL	Front Brakes	All-weather brake pads; provides superior stopping by applying more surface to the rim.	Current
-556	LL Crankset	Cranksets	Components	Black	NULL	NULL	LL Crankset	Super rigid spindle.	Current
-557	ML Crankset	Cranksets	Components	Black	NULL	NULL	ML Crankset	High-strength crank arm.	Current
-558	HL Crankset	Cranksets	Components	Black	NULL	NULL	HL Crankset	Triple crankset; alumunim crank arm; flawless shifting.	Current
-559	Chain	Chains	Components	Silver	NULL	NULL	Chain	Superior shifting performance.	Current
-560	"Touring-2000 Blue, 60"	Touring Bikes	Bikes	Blue	60	T 	Touring-2000	"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."	Current
-561	"Touring-1000 Yellow, 46"	Touring Bikes	Bikes	Yellow	46	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-562	"Touring-1000 Yellow, 50"	Touring Bikes	Bikes	Yellow	50	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-563	"Touring-1000 Yellow, 54"	Touring Bikes	Bikes	Yellow	54	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-564	"Touring-1000 Yellow, 60"	Touring Bikes	Bikes	Yellow	60	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-565	"Touring-3000 Blue, 54"	Touring Bikes	Bikes	Blue	54	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-566	"Touring-3000 Blue, 58"	Touring Bikes	Bikes	Blue	58	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-567	"Touring-3000 Blue, 62"	Touring Bikes	Bikes	Blue	62	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-568	"Touring-3000 Yellow, 44"	Touring Bikes	Bikes	Yellow	44	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-569	"Touring-3000 Yellow, 50"	Touring Bikes	Bikes	Yellow	50	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-570	"Touring-3000 Yellow, 54"	Touring Bikes	Bikes	Yellow	54	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-571	"Touring-3000 Yellow, 58"	Touring Bikes	Bikes	Yellow	58	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-572	"Touring-3000 Yellow, 62"	Touring Bikes	Bikes	Yellow	62	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-573	"Touring-1000 Blue, 46"	Touring Bikes	Bikes	Blue	46	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-574	"Touring-1000 Blue, 50"	Touring Bikes	Bikes	Blue	50	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-575	"Touring-1000 Blue, 54"	Touring Bikes	Bikes	Blue	54	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-576	"Touring-1000 Blue, 60"	Touring Bikes	Bikes	Blue	60	T 	Touring-1000	Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.	Current
-577	"Touring-2000 Blue, 46"	Touring Bikes	Bikes	Blue	46	T 	Touring-2000	"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."	Current
-578	"Touring-2000 Blue, 50"	Touring Bikes	Bikes	Blue	50	T 	Touring-2000	"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."	Current
-579	"Touring-2000 Blue, 54"	Touring Bikes	Bikes	Blue	54	T 	Touring-2000	"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded."	Current
-580	"Road-350-W Yellow, 40"	Road Bikes	Bikes	Yellow	40	R 	Road-350-W	"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."	Current
-581	"Road-350-W Yellow, 42"	Road Bikes	Bikes	Yellow	42	R 	Road-350-W	"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."	Current
-582	"Road-350-W Yellow, 44"	Road Bikes	Bikes	Yellow	44	R 	Road-350-W	"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."	Current
-583	"Road-350-W Yellow, 48"	Road Bikes	Bikes	Yellow	48	R 	Road-350-W	"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day."	Current
-584	"Road-750 Black, 58"	Road Bikes	Bikes	Black	58	R 	Road-750	Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.	Current
-585	"Touring-3000 Blue, 44"	Touring Bikes	Bikes	Blue	44	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-586	"Touring-3000 Blue, 50"	Touring Bikes	Bikes	Blue	50	T 	Touring-3000	"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip."	Current
-587	"Mountain-400-W Silver, 38"	Mountain Bikes	Bikes	Silver	38	M 	Mountain-400-W	"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."	Current
-588	"Mountain-400-W Silver, 40"	Mountain Bikes	Bikes	Silver	40	M 	Mountain-400-W	"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."	Current
-589	"Mountain-400-W Silver, 42"	Mountain Bikes	Bikes	Silver	42	M 	Mountain-400-W	"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."	Current
-590	"Mountain-400-W Silver, 46"	Mountain Bikes	Bikes	Silver	46	M 	Mountain-400-W	"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road."	Current
-591	"Mountain-500 Silver, 40"	Mountain Bikes	Bikes	Silver	40	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-592	"Mountain-500 Silver, 42"	Mountain Bikes	Bikes	Silver	42	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-593	"Mountain-500 Silver, 44"	Mountain Bikes	Bikes	Silver	44	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-594	"Mountain-500 Silver, 48"	Mountain Bikes	Bikes	Silver	48	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-595	"Mountain-500 Silver, 52"	Mountain Bikes	Bikes	Silver	52	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-596	"Mountain-500 Black, 40"	Mountain Bikes	Bikes	Black	40	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-597	"Mountain-500 Black, 42"	Mountain Bikes	Bikes	Black	42	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-598	"Mountain-500 Black, 44"	Mountain Bikes	Bikes	Black	44	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-599	"Mountain-500 Black, 48"	Mountain Bikes	Bikes	Black	48	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-600	"Mountain-500 Black, 52"	Mountain Bikes	Bikes	Black	52	M 	Mountain-500	"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride."	Current
-601	LL Bottom Bracket	Bottom Brackets	Components	NA	NULL	NULL	LL Bottom Bracket	Chromoly steel.	Current
-602	ML Bottom Bracket	Bottom Brackets	Components	NA	NULL	NULL	ML Bottom Bracket	Aluminum alloy cups; large diameter spindle.	Current
-603	HL Bottom Bracket	Bottom Brackets	Components	NA	NULL	NULL	HL Bottom Bracket	Aluminum alloy cups and a hollow axle.	Current
-604	"Road-750 Black, 44"	Road Bikes	Bikes	Black	44	R 	Road-750	Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.	Current
-605	"Road-750 Black, 48"	Road Bikes	Bikes	Black	48	R 	Road-750	Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.	Current
-606	"Road-750 Black, 52"	Road Bikes	Bikes	Black	52	R 	Road-750	Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.	Current
+﻿ProductKey,Product_Name,Sub_Category,Product_Category,Product_Color,Product_Size,Product_Line,Product_Model_Name,Product_Description,Product_Status
+1,Adjustable Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+2,Bearing Ball,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+3,BB Ball Bearing,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+4,Headset Ball Bearings,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+5,Blade,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+6,LL Crankarm,NULL,NULL,Black,NULL,NULL,NULL,NULL,Current
+7,ML Crankarm,NULL,NULL,Black,NULL,NULL,NULL,NULL,Current
+8,HL Crankarm,NULL,NULL,Black,NULL,NULL,NULL,NULL,Current
+9,Chainring Bolts,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+10,Chainring Nut,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+11,Chainring,NULL,NULL,Black,NULL,NULL,NULL,NULL,Current
+12,Crown Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+13,Chain Stays,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+14,Decal 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+15,Decal 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+16,Down Tube,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+17,Mountain End Caps,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+18,Road End Caps,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+19,Touring End Caps,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+20,Fork End,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+21,Freewheel,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+22,Flat Washer 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+23,Flat Washer 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+24,Flat Washer 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+25,Flat Washer 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+26,Flat Washer 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+27,Flat Washer 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+28,Flat Washer 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+29,Flat Washer 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+30,Flat Washer 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+31,Fork Crown,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+32,Front Derailleur Cage,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+33,Front Derailleur Linkage,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+34,Guide Pulley,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+35,LL Grip Tape,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+36,ML Grip Tape,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+37,HL Grip Tape,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+38,Thin-Jam Hex Nut 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+39,Thin-Jam Hex Nut 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+40,Thin-Jam Hex Nut 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+41,Thin-Jam Hex Nut 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+42,Thin-Jam Hex Nut 15,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+43,Thin-Jam Hex Nut 16,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+44,Thin-Jam Hex Nut 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+45,Thin-Jam Hex Nut 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+46,Thin-Jam Hex Nut 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+47,Thin-Jam Hex Nut 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+48,Thin-Jam Hex Nut 13,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+49,Thin-Jam Hex Nut 14,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+50,Thin-Jam Hex Nut 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+51,Thin-Jam Hex Nut 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+52,Thin-Jam Hex Nut 12,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+53,Thin-Jam Hex Nut 11,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+54,Hex Nut 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+55,Hex Nut 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+56,Hex Nut 16,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+57,Hex Nut 17,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+58,Hex Nut 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+59,Hex Nut 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+60,Hex Nut 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+61,Hex Nut 22,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+62,Hex Nut 23,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+63,Hex Nut 12,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+64,Hex Nut 13,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+65,Hex Nut 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+66,Hex Nut 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+67,Hex Nut 11,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+68,Hex Nut 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+69,Hex Nut 20,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+70,Hex Nut 21,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+71,Hex Nut 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+72,Hex Nut 14,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+73,Hex Nut 15,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+74,Hex Nut 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+75,Hex Nut 18,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+76,Hex Nut 19,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+77,Handlebar Tube,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+78,Head Tube,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+79,LL Hub,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+80,HL Hub,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+81,Keyed Washer,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+82,External Lock Washer 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+83,External Lock Washer 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+84,External Lock Washer 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+85,External Lock Washer 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+86,External Lock Washer 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+87,External Lock Washer 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+88,External Lock Washer 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+89,External Lock Washer 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+90,External Lock Washer 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+91,Internal Lock Washer 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+92,Internal Lock Washer 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+93,Internal Lock Washer 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+94,Internal Lock Washer 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+95,Internal Lock Washer 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+96,Internal Lock Washer 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+97,Internal Lock Washer 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+98,Internal Lock Washer 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+99,Internal Lock Washer 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+100,Internal Lock Washer 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+101,Thin-Jam Lock Nut 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+102,Thin-Jam Lock Nut 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+103,Thin-Jam Lock Nut 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+104,Thin-Jam Lock Nut 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+105,Thin-Jam Lock Nut 15,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+106,Thin-Jam Lock Nut 16,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+107,Thin-Jam Lock Nut 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+108,Thin-Jam Lock Nut 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+109,Thin-Jam Lock Nut 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+110,Thin-Jam Lock Nut 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+111,Thin-Jam Lock Nut 13,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+112,Thin-Jam Lock Nut 14,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+113,Thin-Jam Lock Nut 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+114,Thin-Jam Lock Nut 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+115,Thin-Jam Lock Nut 12,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+116,Thin-Jam Lock Nut 11,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+117,Lock Nut 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+118,Lock Nut 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+119,Lock Nut 16,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+120,Lock Nut 17,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+121,Lock Nut 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+122,Lock Nut 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+123,Lock Nut 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+124,Lock Nut 22,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+125,Lock Nut 23,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+126,Lock Nut 12,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+127,Lock Nut 13,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+128,Lock Nut 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+129,Lock Nut 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+130,Lock Nut 11,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+131,Lock Nut 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+132,Lock Nut 20,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+133,Lock Nut 21,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+134,Lock Nut 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+135,Lock Nut 14,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+136,Lock Nut 15,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+137,Lock Nut 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+138,Lock Nut 19,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+139,Lock Nut 18,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+140,Lock Ring,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+141,Lower Head Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+142,Lock Washer 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+143,Lock Washer 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+144,Lock Washer 10,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+145,Lock Washer 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+146,Lock Washer 13,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+147,Lock Washer 8,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+148,Lock Washer 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+149,Lock Washer 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+150,Lock Washer 12,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+151,Lock Washer 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+152,Lock Washer 9,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+153,Lock Washer 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+154,Lock Washer 11,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+155,Metal Angle,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+156,Metal Bar 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+157,Metal Bar 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+158,Metal Plate 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+159,Metal Plate 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+160,Metal Plate 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+161,Metal Sheet 2,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+162,Metal Sheet 3,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+163,Metal Sheet 7,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+164,Metal Sheet 4,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+165,Metal Sheet 5,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+166,Metal Sheet 6,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+167,Metal Sheet 1,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+168,Metal Tread Plate,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+169,LL Nipple,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+170,HL Nipple,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+171,Paint - Black,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+172,Paint - Red,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+173,Paint - Silver,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+174,Paint - Blue,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+175,Paint - Yellow,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+176,Pinch Bolt,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+177,Cup-Shaped Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+178,Cone-Shaped Race,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+179,Reflector,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+180,LL Mountain Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+181,ML Mountain Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+182,HL Mountain Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+183,LL Road Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+184,ML Road Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+185,HL Road Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+186,Touring Rim,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+187,LL Mountain Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+188,ML Mountain Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+189,HL Mountain Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+190,LL Road Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+191,ML Road Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+192,HL Road Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+193,LL Touring Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+194,ML Touring Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+195,HL Touring Seat Assembly,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+196,LL Spindle/Axle,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+197,HL Spindle/Axle,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+198,LL Shell,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+199,HL Shell,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+200,Spokes,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+201,Seat Lug,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+202,Stem,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+203,Seat Post,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+204,Steerer,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+205,Seat Stays,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+206,Seat Tube,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+207,Top Tube,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+208,Tension Pulley,NULL,NULL,NA,NULL,NULL,NULL,NULL,Current
+209,Rear Derailleur Cage,NULL,NULL,Silver,NULL,NULL,NULL,NULL,Current
+210,"HL Road Frame - Black, 58",Road Frames,Components,Black,58,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+211,"HL Road Frame - Red, 58",Road Frames,Components,Red,58,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+212,"Sport-100 Helmet, Red",Helmets,Accessories,Red,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+213,"Sport-100 Helmet, Red",Helmets,Accessories,Red,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+214,"Sport-100 Helmet, Red",Helmets,Accessories,Red,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Current
+215,"Sport-100 Helmet, Black",Helmets,Accessories,Black,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+216,"Sport-100 Helmet, Black",Helmets,Accessories,Black,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+217,"Sport-100 Helmet, Black",Helmets,Accessories,Black,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Current
+218,"Mountain Bike Socks, M",Socks,Clothing,White,M,"M ",Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.,Outdated
+219,"Mountain Bike Socks, L",Socks,Clothing,White,L,"M ",Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.,Outdated
+220,"Sport-100 Helmet, Blue",Helmets,Accessories,Blue,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+221,"Sport-100 Helmet, Blue",Helmets,Accessories,Blue,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Outdated
+222,"Sport-100 Helmet, Blue",Helmets,Accessories,Blue,NULL,"S ",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Current
+223,AWC Logo Cap,Caps,Clothing,Multi,NULL,"S ",Cycling Cap,Traditional style with a flip-up brim; one-size fits all.,Outdated
+224,AWC Logo Cap,Caps,Clothing,Multi,NULL,"S ",Cycling Cap,Traditional style with a flip-up brim; one-size fits all.,Outdated
+225,AWC Logo Cap,Caps,Clothing,Multi,NULL,"S ",Cycling Cap,Traditional style with a flip-up brim; one-size fits all.,Current
+226,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,Multi,S,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+227,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,Multi,S,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+228,"Long-Sleeve Logo Jersey, S",Jerseys,Clothing,Multi,S,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Current
+229,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,Multi,M,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+230,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,Multi,M,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+231,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,Multi,M,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Current
+232,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,Multi,L,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+233,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,Multi,L,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+234,"Long-Sleeve Logo Jersey, L",Jerseys,Clothing,Multi,L,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Current
+235,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,Multi,XL,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+236,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,Multi,XL,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Outdated
+237,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,Multi,XL,"S ",Long-Sleeve Logo Jersey,Unisex long-sleeve AWC logo microfiber cycling jersey,Current
+238,"HL Road Frame - Red, 62",Road Frames,Components,Red,62,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+239,"HL Road Frame - Red, 62",Road Frames,Components,Red,62,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+240,"HL Road Frame - Red, 62",Road Frames,Components,Red,62,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+241,"HL Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+242,"HL Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+243,"HL Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+244,"HL Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+245,"HL Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+246,"HL Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+247,"HL Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+248,"HL Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+249,"HL Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+250,"HL Road Frame - Red, 56",Road Frames,Components,Red,56,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+251,"HL Road Frame - Red, 56",Road Frames,Components,Red,56,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+252,"HL Road Frame - Red, 56",Road Frames,Components,Red,56,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+253,"LL Road Frame - Black, 58",Road Frames,Components,Black,58,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+254,"LL Road Frame - Black, 58",Road Frames,Components,Black,58,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+255,"LL Road Frame - Black, 58",Road Frames,Components,Black,58,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+256,"LL Road Frame - Black, 60",Road Frames,Components,Black,60,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+257,"LL Road Frame - Black, 60",Road Frames,Components,Black,60,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+258,"LL Road Frame - Black, 60",Road Frames,Components,Black,60,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+259,"LL Road Frame - Black, 62",Road Frames,Components,Black,62,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+260,"LL Road Frame - Black, 62",Road Frames,Components,Black,62,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+261,"LL Road Frame - Black, 62",Road Frames,Components,Black,62,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+262,"LL Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+263,"LL Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+264,"LL Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+265,"LL Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+266,"LL Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+267,"LL Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+268,"LL Road Frame - Red, 58",Road Frames,Components,Red,58,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+269,"LL Road Frame - Red, 58",Road Frames,Components,Red,58,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+270,"LL Road Frame - Red, 60",Road Frames,Components,Red,60,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+271,"LL Road Frame - Red, 60",Road Frames,Components,Red,60,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+272,"LL Road Frame - Red, 62",Road Frames,Components,Red,62,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+273,"LL Road Frame - Red, 62",Road Frames,Components,Red,62,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+274,"ML Road Frame - Red, 44",Road Frames,Components,Red,44,"R ",ML Road Frame,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",Outdated
+275,"ML Road Frame - Red, 48",Road Frames,Components,Red,48,"R ",ML Road Frame,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",Outdated
+276,"ML Road Frame - Red, 52",Road Frames,Components,Red,52,"R ",ML Road Frame,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",Outdated
+277,"ML Road Frame - Red, 58",Road Frames,Components,Red,58,"R ",ML Road Frame,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",Outdated
+278,"ML Road Frame - Red, 60",Road Frames,Components,Red,60,"R ",ML Road Frame,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",Outdated
+279,"LL Road Frame - Black, 44",Road Frames,Components,Black,44,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+280,"LL Road Frame - Black, 44",Road Frames,Components,Black,44,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+281,"LL Road Frame - Black, 44",Road Frames,Components,Black,44,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+282,"LL Road Frame - Black, 48",Road Frames,Components,Black,48,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+283,"LL Road Frame - Black, 48",Road Frames,Components,Black,48,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+284,"LL Road Frame - Black, 48",Road Frames,Components,Black,48,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+285,"LL Road Frame - Black, 52",Road Frames,Components,Black,52,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+286,"LL Road Frame - Black, 52",Road Frames,Components,Black,52,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Outdated
+287,"LL Road Frame - Black, 52",Road Frames,Components,Black,52,"R ",LL Road Frame,"The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",Current
+288,"HL Mountain Frame - Silver, 42",Mountain Frames,Components,Silver,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+289,"HL Mountain Frame - Silver, 42",Mountain Frames,Components,Silver,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+290,"HL Mountain Frame - Silver, 42",Mountain Frames,Components,Silver,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+291,"HL Mountain Frame - Silver, 44",Mountain Frames,Components,Silver,44,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+292,"HL Mountain Frame - Silver, 48",Mountain Frames,Components,Silver,48,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+293,"HL Mountain Frame - Silver, 46",Mountain Frames,Components,Silver,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+294,"HL Mountain Frame - Silver, 46",Mountain Frames,Components,Silver,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+295,"HL Mountain Frame - Silver, 46",Mountain Frames,Components,Silver,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+296,"HL Mountain Frame - Black, 42",Mountain Frames,Components,Black,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+297,"HL Mountain Frame - Black, 42",Mountain Frames,Components,Black,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+298,"HL Mountain Frame - Black, 42",Mountain Frames,Components,Black,42,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+299,"HL Mountain Frame - Black, 44",Mountain Frames,Components,Black,44,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+300,"HL Mountain Frame - Black, 48",Mountain Frames,Components,Black,48,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+301,"HL Mountain Frame - Black, 46",Mountain Frames,Components,Black,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+302,"HL Mountain Frame - Black, 46",Mountain Frames,Components,Black,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+303,"HL Mountain Frame - Black, 46",Mountain Frames,Components,Black,46,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+304,"HL Mountain Frame - Black, 38",Mountain Frames,Components,Black,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+305,"HL Mountain Frame - Black, 38",Mountain Frames,Components,Black,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+306,"HL Mountain Frame - Black, 38",Mountain Frames,Components,Black,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+307,"HL Mountain Frame - Silver, 38",Mountain Frames,Components,Silver,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+308,"HL Mountain Frame - Silver, 38",Mountain Frames,Components,Silver,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Outdated
+309,"HL Mountain Frame - Silver, 38",Mountain Frames,Components,Silver,38,"M ",HL Mountain Frame,Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.,Current
+310,"Road-150 Red, 62",Road Bikes,Bikes,Red,62,"R ",Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",Outdated
+311,"Road-150 Red, 44",Road Bikes,Bikes,Red,44,"R ",Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",Outdated
+312,"Road-150 Red, 48",Road Bikes,Bikes,Red,48,"R ",Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",Outdated
+313,"Road-150 Red, 52",Road Bikes,Bikes,Red,52,"R ",Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",Outdated
+314,"Road-150 Red, 56",Road Bikes,Bikes,Red,56,"R ",Road-150,"This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",Outdated
+315,"Road-450 Red, 58",Road Bikes,Bikes,Red,58,"R ",Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",Outdated
+316,"Road-450 Red, 60",Road Bikes,Bikes,Red,60,"R ",Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",Outdated
+317,"Road-450 Red, 44",Road Bikes,Bikes,Red,44,"R ",Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",Outdated
+318,"Road-450 Red, 48",Road Bikes,Bikes,Red,48,"R ",Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",Outdated
+319,"Road-450 Red, 52",Road Bikes,Bikes,Red,52,"R ",Road-450,"A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",Outdated
+320,"Road-650 Red, 58",Road Bikes,Bikes,Red,58,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+321,"Road-650 Red, 58",Road Bikes,Bikes,Red,58,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+322,"Road-650 Red, 60",Road Bikes,Bikes,Red,60,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+323,"Road-650 Red, 60",Road Bikes,Bikes,Red,60,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+324,"Road-650 Red, 62",Road Bikes,Bikes,Red,62,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+325,"Road-650 Red, 62",Road Bikes,Bikes,Red,62,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+326,"Road-650 Red, 44",Road Bikes,Bikes,Red,44,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+327,"Road-650 Red, 44",Road Bikes,Bikes,Red,44,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+328,"Road-650 Red, 48",Road Bikes,Bikes,Red,48,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+329,"Road-650 Red, 48",Road Bikes,Bikes,Red,48,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+330,"Road-650 Red, 52",Road Bikes,Bikes,Red,52,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+331,"Road-650 Red, 52",Road Bikes,Bikes,Red,52,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+332,"Road-650 Black, 58",Road Bikes,Bikes,Black,58,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+333,"Road-650 Black, 58",Road Bikes,Bikes,Black,58,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+334,"Road-650 Black, 60",Road Bikes,Bikes,Black,60,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+335,"Road-650 Black, 60",Road Bikes,Bikes,Black,60,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+336,"Road-650 Black, 62",Road Bikes,Bikes,Black,62,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+337,"Road-650 Black, 62",Road Bikes,Bikes,Black,62,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+338,"Road-650 Black, 44",Road Bikes,Bikes,Black,44,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+339,"Road-650 Black, 44",Road Bikes,Bikes,Black,44,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+340,"Road-650 Black, 48",Road Bikes,Bikes,Black,48,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+341,"Road-650 Black, 48",Road Bikes,Bikes,Black,48,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+342,"Road-650 Black, 52",Road Bikes,Bikes,Black,52,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+343,"Road-650 Black, 52",Road Bikes,Bikes,Black,52,"R ",Road-650,"Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",Outdated
+344,"Mountain-100 Silver, 38",Mountain Bikes,Bikes,Silver,38,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+345,"Mountain-100 Silver, 42",Mountain Bikes,Bikes,Silver,42,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+346,"Mountain-100 Silver, 44",Mountain Bikes,Bikes,Silver,44,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+347,"Mountain-100 Silver, 48",Mountain Bikes,Bikes,Silver,48,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+348,"Mountain-100 Black, 38",Mountain Bikes,Bikes,Black,38,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+349,"Mountain-100 Black, 42",Mountain Bikes,Bikes,Black,42,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+350,"Mountain-100 Black, 44",Mountain Bikes,Bikes,Black,44,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+351,"Mountain-100 Black, 48",Mountain Bikes,Bikes,Black,48,"M ",Mountain-100,"Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",Outdated
+352,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,Silver,38,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+353,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,Silver,38,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+354,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,Silver,42,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+355,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,Silver,42,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+356,"Mountain-200 Silver, 46",Mountain Bikes,Bikes,Silver,46,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+357,"Mountain-200 Silver, 46",Mountain Bikes,Bikes,Silver,46,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+358,"Mountain-200 Black, 38",Mountain Bikes,Bikes,Black,38,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+359,"Mountain-200 Black, 38",Mountain Bikes,Bikes,Black,38,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+360,"Mountain-200 Black, 42",Mountain Bikes,Bikes,Black,42,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+361,"Mountain-200 Black, 42",Mountain Bikes,Bikes,Black,42,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+362,"Mountain-200 Black, 46",Mountain Bikes,Bikes,Black,46,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Outdated
+363,"Mountain-200 Black, 46",Mountain Bikes,Bikes,Black,46,"M ",Mountain-200,Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Current
+364,"Mountain-300 Black, 38",Mountain Bikes,Bikes,Black,38,"M ",Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.,Outdated
+365,"Mountain-300 Black, 40",Mountain Bikes,Bikes,Black,40,"M ",Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.,Outdated
+366,"Mountain-300 Black, 44",Mountain Bikes,Bikes,Black,44,"M ",Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.,Outdated
+367,"Mountain-300 Black, 48",Mountain Bikes,Bikes,Black,48,"M ",Mountain-300,For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.,Outdated
+368,"Road-250 Red, 44",Road Bikes,Bikes,Red,44,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+369,"Road-250 Red, 48",Road Bikes,Bikes,Red,48,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+370,"Road-250 Red, 52",Road Bikes,Bikes,Red,52,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+371,"Road-250 Red, 58",Road Bikes,Bikes,Red,58,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+372,"Road-250 Red, 58",Road Bikes,Bikes,Red,58,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Current
+373,"Road-250 Black, 44",Road Bikes,Bikes,Black,44,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+374,"Road-250 Black, 44",Road Bikes,Bikes,Black,44,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Current
+375,"Road-250 Black, 48",Road Bikes,Bikes,Black,48,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+376,"Road-250 Black, 48",Road Bikes,Bikes,Black,48,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Current
+377,"Road-250 Black, 52",Road Bikes,Bikes,Black,52,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+378,"Road-250 Black, 52",Road Bikes,Bikes,Black,52,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Current
+379,"Road-250 Black, 58",Road Bikes,Bikes,Black,58,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Outdated
+380,"Road-250 Black, 58",Road Bikes,Bikes,Black,58,"R ",Road-250,"Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Current
+381,"Road-550-W Yellow, 38",Road Bikes,Bikes,Yellow,38,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Outdated
+382,"Road-550-W Yellow, 38",Road Bikes,Bikes,Yellow,38,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Current
+383,"Road-550-W Yellow, 40",Road Bikes,Bikes,Yellow,40,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Outdated
+384,"Road-550-W Yellow, 40",Road Bikes,Bikes,Yellow,40,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Current
+385,"Road-550-W Yellow, 42",Road Bikes,Bikes,Yellow,42,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Outdated
+386,"Road-550-W Yellow, 42",Road Bikes,Bikes,Yellow,42,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Current
+387,"Road-550-W Yellow, 44",Road Bikes,Bikes,Yellow,44,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Outdated
+388,"Road-550-W Yellow, 44",Road Bikes,Bikes,Yellow,44,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Current
+389,"Road-550-W Yellow, 48",Road Bikes,Bikes,Yellow,48,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Outdated
+390,"Road-550-W Yellow, 48",Road Bikes,Bikes,Yellow,48,"R ",Road-550-W,"Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Current
+391,LL Fork,Forks,Components,NA,NULL,NULL,LL Fork,Stout design absorbs shock and offers more precise steering.,Outdated
+392,ML Fork,Forks,Components,NA,NULL,NULL,ML Fork,Composite road fork with an aluminum steerer tube.,Outdated
+393,HL Fork,Forks,Components,NA,NULL,NULL,HL Fork,High-performance carbon road fork with curved legs.,Outdated
+394,LL Headset,Headsets,Components,NA,NULL,NULL,LL Headset,Threadless headset provides quality at an economical price.,Outdated
+395,ML Headset,Headsets,Components,NA,NULL,NULL,ML Headset,Sealed cartridge keeps dirt out.,Outdated
+396,HL Headset,Headsets,Components,NA,NULL,NULL,HL Headset,"High-quality 1"" threadless headset with a grease port for quick lubrication.",Outdated
+397,LL Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",LL Mountain Handlebars,All-purpose bar for on or off-road.,Outdated
+398,LL Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",LL Mountain Handlebars,All-purpose bar for on or off-road.,Current
+399,ML Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",ML Mountain Handlebars,Tough aluminum alloy bars for downhill.,Outdated
+400,ML Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",ML Mountain Handlebars,Tough aluminum alloy bars for downhill.,Current
+401,HL Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",HL Mountain Handlebars,Flat bar strong enough for the pro circuit.,Outdated
+402,HL Mountain Handlebars,Handlebars,Components,NA,NULL,"M ",HL Mountain Handlebars,Flat bar strong enough for the pro circuit.,Current
+403,LL Road Handlebars,Handlebars,Components,NA,NULL,"R ",LL Road Handlebars,Unique shape provides easier reach to the levers.,Outdated
+404,LL Road Handlebars,Handlebars,Components,NA,NULL,"R ",LL Road Handlebars,Unique shape provides easier reach to the levers.,Current
+405,ML Road Handlebars,Handlebars,Components,NA,NULL,"R ",ML Road Handlebars,Anatomically shaped aluminum tube bar will suit all riders.,Outdated
+406,ML Road Handlebars,Handlebars,Components,NA,NULL,"R ",ML Road Handlebars,Anatomically shaped aluminum tube bar will suit all riders.,Current
+407,HL Road Handlebars,Handlebars,Components,NA,NULL,"R ",HL Road Handlebars,Designed for racers; high-end anatomically shaped bar from aluminum alloy.,Outdated
+408,HL Road Handlebars,Handlebars,Components,NA,NULL,"R ",HL Road Handlebars,Designed for racers; high-end anatomically shaped bar from aluminum alloy.,Current
+409,"ML Mountain Frame - Black, 38",Mountain Frames,Components,Black,38,"M ",ML Mountain Frame-W,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.,Outdated
+410,LL Mountain Front Wheel,Wheels,Components,Black,NULL,"M ",LL Mountain Front Wheel,Replacement mountain wheel for entry-level rider.,Outdated
+411,ML Mountain Front Wheel,Wheels,Components,Black,NULL,"M ",ML Mountain Front Wheel,Replacement mountain wheel for the casual to serious rider.,Outdated
+412,HL Mountain Front Wheel,Wheels,Components,Black,NULL,"M ",HL Mountain Front Wheel,High-performance mountain replacement wheel.,Outdated
+413,LL Road Front Wheel,Wheels,Components,Black,NULL,"R ",LL Road Front Wheel,Replacement road front wheel for entry-level cyclist.,Outdated
+414,ML Road Front Wheel,Wheels,Components,Black,NULL,"R ",ML Road Front Wheel,Sturdy alloy features a quick-release hub.,Outdated
+415,HL Road Front Wheel,Wheels,Components,Black,NULL,"R ",HL Road Front Wheel,Strong wheel with double-walled rim.,Outdated
+416,Touring Front Wheel,Wheels,Components,Black,NULL,"T ",Touring Front Wheel,Aerodynamic rims for smooth riding.,Outdated
+417,"ML Road Frame-W - Yellow, 38",Road Frames,Components,Yellow,38,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Outdated
+418,"ML Road Frame-W - Yellow, 38",Road Frames,Components,Yellow,38,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Current
+419,LL Mountain Rear Wheel,Wheels,Components,Black,NULL,"M ",LL Mountain Rear Wheel,Replacement mountain wheel for entry-level rider.,Outdated
+420,ML Mountain Rear Wheel,Wheels,Components,Black,NULL,"M ",ML Mountain Rear Wheel,Replacement mountain wheel for the casual to serious rider.,Outdated
+421,HL Mountain Rear Wheel,Wheels,Components,Black,NULL,"M ",HL Mountain Rear Wheel,High-performance mountain replacement wheel.,Outdated
+422,LL Road Rear Wheel,Wheels,Components,Black,NULL,"R ",LL Road Rear Wheel,Replacement road rear wheel for entry-level cyclist.,Outdated
+423,ML Road Rear Wheel,Wheels,Components,Black,NULL,"R ",ML Road Rear Wheel,Aluminum alloy rim with stainless steel spokes; built for speed.,Outdated
+424,HL Road Rear Wheel,Wheels,Components,Black,NULL,"R ",HL Road Rear Wheel,Strong rear wheel with double-walled rim.,Outdated
+425,Touring Rear Wheel,Wheels,Components,Black,NULL,"T ",Touring Rear Wheel,Excellent aerodynamic rims guarantee a smooth ride.,Outdated
+426,"ML Mountain Frame - Black, 40",Mountain Frames,Components,Black,40,"M ",ML Mountain Frame,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.,Outdated
+427,"ML Mountain Frame - Black, 44",Mountain Frames,Components,Black,44,"M ",ML Mountain Frame,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.,Outdated
+428,"ML Mountain Frame - Black, 48",Mountain Frames,Components,Black,48,"M ",ML Mountain Frame,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.,Outdated
+429,"ML Road Frame-W - Yellow, 40",Road Frames,Components,Yellow,40,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Outdated
+430,"ML Road Frame-W - Yellow, 40",Road Frames,Components,Yellow,40,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Current
+431,"ML Road Frame-W - Yellow, 42",Road Frames,Components,Yellow,42,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Outdated
+432,"ML Road Frame-W - Yellow, 42",Road Frames,Components,Yellow,42,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Current
+433,"ML Road Frame-W - Yellow, 44",Road Frames,Components,Yellow,44,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Outdated
+434,"ML Road Frame-W - Yellow, 44",Road Frames,Components,Yellow,44,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Current
+435,"ML Road Frame-W - Yellow, 48",Road Frames,Components,Yellow,48,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Outdated
+436,"ML Road Frame-W - Yellow, 48",Road Frames,Components,Yellow,48,"R ",ML Road Frame-W,"Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",Current
+437,"HL Road Frame - Black, 62",Road Frames,Components,Black,62,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+438,"HL Road Frame - Black, 62",Road Frames,Components,Black,62,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+439,"HL Road Frame - Black, 44",Road Frames,Components,Black,44,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+440,"HL Road Frame - Black, 44",Road Frames,Components,Black,44,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+441,"HL Road Frame - Black, 48",Road Frames,Components,Black,48,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+442,"HL Road Frame - Black, 48",Road Frames,Components,Black,48,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+443,"HL Road Frame - Black, 52",Road Frames,Components,Black,52,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Outdated
+444,"HL Road Frame - Black, 52",Road Frames,Components,Black,52,"R ",HL Road Frame,Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.,Current
+445,"Men's Sports Shorts, S",Shorts,Clothing,Black,S,"S ",Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.,Outdated
+446,"Touring-Panniers, Large",Panniers,Accessories,Grey,NULL,"T ",Touring-Panniers,"Durable, water-proof nylon construction with easy access. Large enough for weekend trips.",Outdated
+447,Cable Lock,Locks,Accessories,NA,NULL,"S ",Cable Lock,"Wraps to fit front and rear tires, carrier and 2 keys included.",Outdated
+448,Minipump,Pumps,Accessories,NA,NULL,"S ",Minipump,Designed for convenience. Fits in your pocket. Aluminum barrel. 160psi rated.,Outdated
+449,Mountain Pump,Pumps,Accessories,NA,NULL,"M ",Mountain Pump,Simple and light-weight. Emergency patches stored in handle.,Outdated
+450,Taillights - Battery-Powered,Lights,Accessories,NA,NULL,"R ",Taillight,Affordable light for safe night riding - uses 3 AAA batteries,Outdated
+451,Headlights - Dual-Beam,Lights,Accessories,NA,NULL,"R ",Headlights - Dual-Beam,Rechargeable dual-beam headlight.,Outdated
+452,Headlights - Weatherproof,Lights,Accessories,NA,NULL,"R ",Headlights - Weatherproof,Rugged weatherproof headlight.,Outdated
+453,"Men's Sports Shorts, M",Shorts,Clothing,Black,M,"S ",Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.,Outdated
+454,"Men's Sports Shorts, L",Shorts,Clothing,Black,L,"S ",Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.,Outdated
+455,"Men's Sports Shorts, XL",Shorts,Clothing,Black,XL,"S ",Men's Sports Shorts,Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.,Outdated
+456,"Women's Tights, S",Tights,Clothing,Black,S,"S ",Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.,Outdated
+457,"Women's Tights, M",Tights,Clothing,Black,M,"S ",Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.,Outdated
+458,"Women's Tights, L",Tights,Clothing,Black,L,"S ",Women's Tights,Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.,Outdated
+459,"Men's Bib-Shorts, S",Bib-Shorts,Clothing,Multi,S,"S ",Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",Outdated
+460,"Men's Bib-Shorts, M",Bib-Shorts,Clothing,Multi,M,"S ",Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",Outdated
+461,"Men's Bib-Shorts, L",Bib-Shorts,Clothing,Multi,L,"S ",Men's Bib-Shorts,"Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",Outdated
+462,"Half-Finger Gloves, S",Gloves,Clothing,Black,S,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Outdated
+463,"Half-Finger Gloves, S",Gloves,Clothing,Black,S,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Current
+464,"Half-Finger Gloves, M",Gloves,Clothing,Black,M,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Outdated
+465,"Half-Finger Gloves, M",Gloves,Clothing,Black,M,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Current
+466,"Half-Finger Gloves, L",Gloves,Clothing,Black,L,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Outdated
+467,"Half-Finger Gloves, L",Gloves,Clothing,Black,L,"S ",Half-Finger Gloves,"Full padding, improved finger flex, durable palm, adjustable closure.",Current
+468,"Full-Finger Gloves, S",Gloves,Clothing,Black,S,"M ",Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",Outdated
+469,"Full-Finger Gloves, M",Gloves,Clothing,Black,M,"M ",Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",Outdated
+470,"Full-Finger Gloves, L",Gloves,Clothing,Black,L,"M ",Full-Finger Gloves,"Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",Outdated
+471,"Classic Vest, S",Vests,Clothing,Blue,S,"S ",Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket.",Current
+472,"Classic Vest, M",Vests,Clothing,Blue,M,"S ",Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket.",Current
+473,"Classic Vest, L",Vests,Clothing,Blue,L,"S ",Classic Vest,"Light-weight, wind-resistant, packs to fit into a pocket.",Current
+474,"Women's Mountain Shorts, S",Shorts,Clothing,Black,S,"M ",Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Current
+475,"Women's Mountain Shorts, M",Shorts,Clothing,Black,M,"M ",Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Current
+476,"Women's Mountain Shorts, L",Shorts,Clothing,Black,L,"M ",Women's Mountain Shorts,"Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Current
+477,Water Bottle - 30 oz.,Bottles and Cages,Accessories,NA,NULL,"S ",Water Bottle,AWC logo water bottle - holds 30 oz; leak-proof.,Current
+478,Mountain Bottle Cage,Bottles and Cages,Accessories,NA,NULL,"M ",Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,Current
+479,Road Bottle Cage,Bottles and Cages,Accessories,NA,NULL,"R ",Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,Current
+480,Patch Kit/8 Patches,Tires and Tubes,Accessories,NA,NULL,"S ",Patch kit,"Includes 8 different size patches, glue and sandpaper.",Current
+481,"Racing Socks, M",Socks,Clothing,White,M,"R ",Racing Socks,"Thin, lightweight and durable with cuffs that stay up.",Current
+482,"Racing Socks, L",Socks,Clothing,White,L,"R ",Racing Socks,"Thin, lightweight and durable with cuffs that stay up.",Current
+483,Hitch Rack - 4-Bike,Bike Racks,Accessories,NA,NULL,"S ",Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",Current
+484,Bike Wash - Dissolver,Cleaners,Accessories,NA,NULL,"S ",Bike Wash,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",Current
+485,Fender Set - Mountain,Fenders,Accessories,NA,NULL,"M ",Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,Current
+486,All-Purpose Bike Stand,Bike Stands,Accessories,NA,NULL,"M ",All-Purpose Bike Stand,Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.,Current
+487,Hydration Pack - 70 oz.,Hydration Packs,Accessories,Silver,70,"S ",Hydration Pack,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Current
+488,"Short-Sleeve Classic Jersey, S",Jerseys,Clothing,Yellow,S,"S ",Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Current
+489,"Short-Sleeve Classic Jersey, M",Jerseys,Clothing,Yellow,M,"S ",Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Current
+490,"Short-Sleeve Classic Jersey, L",Jerseys,Clothing,Yellow,L,"S ",Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Current
+491,"Short-Sleeve Classic Jersey, XL",Jerseys,Clothing,Yellow,XL,"S ",Short-Sleeve Classic Jersey,"Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Current
+492,"HL Touring Frame - Yellow, 60",Touring Frames,Components,Yellow,60,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+493,"LL Touring Frame - Yellow, 62",Touring Frames,Components,Yellow,62,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+494,"HL Touring Frame - Yellow, 46",Touring Frames,Components,Yellow,46,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+495,"HL Touring Frame - Yellow, 50",Touring Frames,Components,Yellow,50,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+496,"HL Touring Frame - Yellow, 54",Touring Frames,Components,Yellow,54,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+497,"HL Touring Frame - Blue, 46",Touring Frames,Components,Blue,46,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+498,"HL Touring Frame - Blue, 50",Touring Frames,Components,Blue,50,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+499,"HL Touring Frame - Blue, 54",Touring Frames,Components,Blue,54,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+500,"HL Touring Frame - Blue, 60",Touring Frames,Components,Blue,60,"T ",HL Touring Frame,The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.,Current
+501,Rear Derailleur,Derailleurs,Components,Silver,NULL,NULL,Rear Derailleur,Wide-link design.,Current
+502,"LL Touring Frame - Blue, 50",Touring Frames,Components,Blue,50,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+503,"LL Touring Frame - Blue, 54",Touring Frames,Components,Blue,54,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+504,"LL Touring Frame - Blue, 58",Touring Frames,Components,Blue,58,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+505,"LL Touring Frame - Blue, 62",Touring Frames,Components,Blue,62,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+506,"LL Touring Frame - Yellow, 44",Touring Frames,Components,Yellow,44,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+507,"LL Touring Frame - Yellow, 50",Touring Frames,Components,Yellow,50,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+508,"LL Touring Frame - Yellow, 54",Touring Frames,Components,Yellow,54,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+509,"LL Touring Frame - Yellow, 58",Touring Frames,Components,Yellow,58,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+510,"LL Touring Frame - Blue, 44",Touring Frames,Components,Blue,44,"T ",LL Touring Frame,Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.,Current
+511,"ML Mountain Frame-W - Silver, 40",Mountain Frames,Components,Silver,40,"M ",ML Mountain Frame-W,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.,Current
+512,"ML Mountain Frame-W - Silver, 42",Mountain Frames,Components,Silver,42,"M ",ML Mountain Frame-W,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.,Current
+513,"ML Mountain Frame-W - Silver, 46",Mountain Frames,Components,Silver,46,"M ",ML Mountain Frame-W,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.,Current
+514,Rear Brakes,Brakes,Components,Silver,NULL,NULL,Rear Brakes,NULL,Current
+515,LL Mountain Seat/Saddle,Saddles,Components,NA,NULL,"M ",LL Mountain Seat/Saddle 2,Synthetic leather. Features gel for increased comfort.,Current
+516,ML Mountain Seat/Saddle,Saddles,Components,NA,NULL,"M ",ML Mountain Seat/Saddle 2,Designed to absorb shock.,Current
+517,HL Mountain Seat/Saddle,Saddles,Components,NA,NULL,"M ",HL Mountain Seat/Saddle 2,Anatomic design for a full-day of riding in comfort. Durable leather.,Current
+518,LL Road Seat/Saddle,Saddles,Components,NA,NULL,"R ",LL Road Seat/Saddle 1,Lightweight foam-padded saddle.,Current
+519,ML Road Seat/Saddle,Saddles,Components,NA,NULL,"T ",ML Road Seat/Saddle 2,Rubber bumpers absorb bumps.,Current
+520,HL Road Seat/Saddle,Saddles,Components,NA,NULL,"R ",HL Road Seat/Saddle 2,Lightweight kevlar racing saddle. Leather.,Current
+521,LL Touring Seat/Saddle,Saddles,Components,NA,NULL,"T ",LL Touring Seat/Saddle,"Comfortable, ergonomically shaped gel saddle.",Current
+522,ML Touring Seat/Saddle,Saddles,Components,NA,NULL,"T ",ML Touring Seat/Saddle,New design relieves pressure for long rides.,Current
+523,HL Touring Seat/Saddle,Saddles,Components,NA,NULL,"T ",HL Touring Seat/Saddle,Cut-out shell for a more comfortable ride.,Current
+524,"LL Mountain Frame - Silver, 42",Mountain Frames,Components,Silver,42,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+525,"LL Mountain Frame - Silver, 44",Mountain Frames,Components,Silver,44,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+526,"LL Mountain Frame - Silver, 48",Mountain Frames,Components,Silver,48,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+527,"LL Mountain Frame - Silver, 52",Mountain Frames,Components,Silver,52,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+528,Mountain Tire Tube,Tires and Tubes,Accessories,NA,NULL,"M ",Mountain Tire Tube,Self-sealing tube.,Current
+529,Road Tire Tube,Tires and Tubes,Accessories,NA,NULL,"R ",Road Tire Tube,Conventional all-purpose tube.,Current
+530,Touring Tire Tube,Tires and Tubes,Accessories,NA,NULL,"T ",Touring Tire Tube,General purpose tube.,Current
+531,"LL Mountain Frame - Black, 42",Mountain Frames,Components,Black,42,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+532,"LL Mountain Frame - Black, 44",Mountain Frames,Components,Black,44,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+533,"LL Mountain Frame - Black, 48",Mountain Frames,Components,Black,48,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+534,"LL Mountain Frame - Black, 52",Mountain Frames,Components,Black,52,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+535,LL Mountain Tire,Tires and Tubes,Accessories,NA,NULL,"M ",LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",Current
+536,ML Mountain Tire,Tires and Tubes,Accessories,NA,NULL,"M ",ML Mountain Tire,"Great traction, high-density rubber.",Current
+537,HL Mountain Tire,Tires and Tubes,Accessories,NA,NULL,"M ",HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",Current
+538,LL Road Tire,Tires and Tubes,Accessories,NA,NULL,"R ",LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,Current
+539,ML Road Tire,Tires and Tubes,Accessories,NA,NULL,"R ",ML Road Tire,Higher density rubber.,Current
+540,HL Road Tire,Tires and Tubes,Accessories,NA,NULL,"R ",HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,Current
+541,Touring Tire,Tires and Tubes,Accessories,NA,NULL,"T ",Touring Tire,High-density rubber.,Current
+542,LL Mountain Pedal,Pedals,Components,Silver/Black,NULL,"M ",LL Mountain Pedal,Expanded platform so you can ride in any shoes; great for all-around riding.,Current
+543,ML Mountain Pedal,Pedals,Components,Silver/Black,NULL,"M ",ML Mountain Pedal,"Lightweight, durable, clipless pedal with adjustable tension.",Current
+544,HL Mountain Pedal,Pedals,Components,Silver/Black,NULL,"M ",HL Mountain Pedal,Stainless steel; designed to shed mud easily.,Current
+545,LL Road Pedal,Pedals,Components,Silver/Black,NULL,"R ",LL Road Pedal,Clipless pedals - aluminum.,Current
+546,ML Road Pedal,Pedals,Components,Silver/Black,NULL,"R ",ML Road Pedal,Lightweight aluminum alloy construction.,Current
+547,HL Road Pedal,Pedals,Components,Silver/Black,NULL,"R ",HL Road Pedal,Top-of-the-line clipless pedals with adjustable tension.,Current
+548,Touring Pedal,Pedals,Components,Silver/Black,NULL,"T ",Touring Pedal,A stable pedal for all-day riding.,Current
+549,"ML Mountain Frame-W - Silver, 38",Mountain Frames,Components,Silver,38,"M ",ML Mountain Frame-W,The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.,Current
+550,"LL Mountain Frame - Black, 40",Mountain Frames,Components,Black,40,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+551,"LL Mountain Frame - Silver, 40",Mountain Frames,Components,Silver,40,"M ",LL Mountain Frame,"Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",Current
+552,Front Derailleur,Derailleurs,Components,Silver,NULL,NULL,Front Derailleur,Wide-link design.,Current
+553,LL Touring Handlebars,Handlebars,Components,NA,NULL,"T ",LL Touring Handlebars,Unique shape reduces fatigue for entry level riders.,Current
+554,HL Touring Handlebars,Handlebars,Components,NA,NULL,"T ",HL Touring Handlebars,A light yet stiff aluminum bar for long distance riding.,Current
+555,Front Brakes,Brakes,Components,Silver,NULL,NULL,Front Brakes,All-weather brake pads; provides superior stopping by applying more surface to the rim.,Current
+556,LL Crankset,Cranksets,Components,Black,NULL,NULL,LL Crankset,Super rigid spindle.,Current
+557,ML Crankset,Cranksets,Components,Black,NULL,NULL,ML Crankset,High-strength crank arm.,Current
+558,HL Crankset,Cranksets,Components,Black,NULL,NULL,HL Crankset,Triple crankset; alumunim crank arm; flawless shifting.,Current
+559,Chain,Chains,Components,Silver,NULL,NULL,Chain,Superior shifting performance.,Current
+560,"Touring-2000 Blue, 60",Touring Bikes,Bikes,Blue,60,"T ",Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Current
+561,"Touring-1000 Yellow, 46",Touring Bikes,Bikes,Yellow,46,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+562,"Touring-1000 Yellow, 50",Touring Bikes,Bikes,Yellow,50,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+563,"Touring-1000 Yellow, 54",Touring Bikes,Bikes,Yellow,54,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+564,"Touring-1000 Yellow, 60",Touring Bikes,Bikes,Yellow,60,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+565,"Touring-3000 Blue, 54",Touring Bikes,Bikes,Blue,54,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+566,"Touring-3000 Blue, 58",Touring Bikes,Bikes,Blue,58,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+567,"Touring-3000 Blue, 62",Touring Bikes,Bikes,Blue,62,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+568,"Touring-3000 Yellow, 44",Touring Bikes,Bikes,Yellow,44,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+569,"Touring-3000 Yellow, 50",Touring Bikes,Bikes,Yellow,50,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+570,"Touring-3000 Yellow, 54",Touring Bikes,Bikes,Yellow,54,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+571,"Touring-3000 Yellow, 58",Touring Bikes,Bikes,Yellow,58,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+572,"Touring-3000 Yellow, 62",Touring Bikes,Bikes,Yellow,62,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+573,"Touring-1000 Blue, 46",Touring Bikes,Bikes,Blue,46,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+574,"Touring-1000 Blue, 50",Touring Bikes,Bikes,Blue,50,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+575,"Touring-1000 Blue, 54",Touring Bikes,Bikes,Blue,54,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+576,"Touring-1000 Blue, 60",Touring Bikes,Bikes,Blue,60,"T ",Touring-1000,Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Current
+577,"Touring-2000 Blue, 46",Touring Bikes,Bikes,Blue,46,"T ",Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Current
+578,"Touring-2000 Blue, 50",Touring Bikes,Bikes,Blue,50,"T ",Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Current
+579,"Touring-2000 Blue, 54",Touring Bikes,Bikes,Blue,54,"T ",Touring-2000,"The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Current
+580,"Road-350-W Yellow, 40",Road Bikes,Bikes,Yellow,40,"R ",Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Current
+581,"Road-350-W Yellow, 42",Road Bikes,Bikes,Yellow,42,"R ",Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Current
+582,"Road-350-W Yellow, 44",Road Bikes,Bikes,Yellow,44,"R ",Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Current
+583,"Road-350-W Yellow, 48",Road Bikes,Bikes,Yellow,48,"R ",Road-350-W,"Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Current
+584,"Road-750 Black, 58",Road Bikes,Bikes,Black,58,"R ",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Current
+585,"Touring-3000 Blue, 44",Touring Bikes,Bikes,Blue,44,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+586,"Touring-3000 Blue, 50",Touring Bikes,Bikes,Blue,50,"T ",Touring-3000,"All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Current
+587,"Mountain-400-W Silver, 38",Mountain Bikes,Bikes,Silver,38,"M ",Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Current
+588,"Mountain-400-W Silver, 40",Mountain Bikes,Bikes,Silver,40,"M ",Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Current
+589,"Mountain-400-W Silver, 42",Mountain Bikes,Bikes,Silver,42,"M ",Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Current
+590,"Mountain-400-W Silver, 46",Mountain Bikes,Bikes,Silver,46,"M ",Mountain-400-W,"This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Current
+591,"Mountain-500 Silver, 40",Mountain Bikes,Bikes,Silver,40,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+592,"Mountain-500 Silver, 42",Mountain Bikes,Bikes,Silver,42,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+593,"Mountain-500 Silver, 44",Mountain Bikes,Bikes,Silver,44,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+594,"Mountain-500 Silver, 48",Mountain Bikes,Bikes,Silver,48,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+595,"Mountain-500 Silver, 52",Mountain Bikes,Bikes,Silver,52,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+596,"Mountain-500 Black, 40",Mountain Bikes,Bikes,Black,40,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+597,"Mountain-500 Black, 42",Mountain Bikes,Bikes,Black,42,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+598,"Mountain-500 Black, 44",Mountain Bikes,Bikes,Black,44,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+599,"Mountain-500 Black, 48",Mountain Bikes,Bikes,Black,48,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+600,"Mountain-500 Black, 52",Mountain Bikes,Bikes,Black,52,"M ",Mountain-500,"Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Current
+601,LL Bottom Bracket,Bottom Brackets,Components,NA,NULL,NULL,LL Bottom Bracket,Chromoly steel.,Current
+602,ML Bottom Bracket,Bottom Brackets,Components,NA,NULL,NULL,ML Bottom Bracket,Aluminum alloy cups; large diameter spindle.,Current
+603,HL Bottom Bracket,Bottom Brackets,Components,NA,NULL,NULL,HL Bottom Bracket,Aluminum alloy cups and a hollow axle.,Current
+604,"Road-750 Black, 44",Road Bikes,Bikes,Black,44,"R ",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Current
+605,"Road-750 Black, 48",Road Bikes,Bikes,Black,48,"R ",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Current
+606,"Road-750 Black, 52",Road Bikes,Bikes,Black,52,"R ",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Current

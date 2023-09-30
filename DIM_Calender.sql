@@ -1,4 +1,4 @@
--- Transform DIM_Calendar Table --
+-- Transform DimDate Table to a new table named as Calendar --
 SELECT 
   [DateKey], 
   [FullDateAlternateKey] AS Date, 
@@ -7,22 +7,20 @@ SELECT
   --,[SpanishDayNameOfWeek]
   --,[FrenchDayNameOfWeek]
   --,[DayNumberOfMonth]
-  --,[DayNumberOfYear]
+  [DayNumberOfYear] AS DayNumber,
   [WeekNumberOfYear] AS Week,  
   LEFT([EnglishMonthName], 3) AS Month, 
   --,[SpanishMonthName]
   --,[FrenchMonthName]
-  --[MonthNumberOfYear] 
+  [MonthNumberOfYear] AS MonthNumber,
   [CalendarQuarter] AS Quarter, 
   [CalendarYear] AS Year 
   --,[CalendarSemester]
   --,[FiscalQuarter]
   --,[FiscalYear]
   --,[FiscalSemester]
-INTO  [AdventureWorksDW2022].[dbo].[Dim_Calendar]
+INTO  [AdventureWorksDW2022].[dbo].[Calendar]
 FROM 
-  [AdventureWorksDW2022].[dbo].[DimCalendar] 
+  [AdventureWorksDW2022].[dbo].[DimDate] 
 WHERE 
-  CalendarYear >= 2021
-
-  SELECT * FROM [AdventureWorksDW2022].[dbo].[Dim_Calendar]
+  CalendarYear BETWEEN 2020 AND 2022
